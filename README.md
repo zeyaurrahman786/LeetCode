@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/zeyaurrahman786/LeetCode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/zeyaurrahman786/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -62,5 +63,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/zeyaurrahman786/LeetCode/tree/master/0001-two-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/zeyaurrahman786/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 <!---LeetCode Topics End-->
