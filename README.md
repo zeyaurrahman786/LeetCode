@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/zeyaurrahman786/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/zeyaurrahman786/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/zeyaurrahman786/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,4 +66,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/zeyaurrahman786/LeetCode/tree/master/0001-two-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/zeyaurrahman786/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/zeyaurrahman786/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->
