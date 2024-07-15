@@ -5,14 +5,15 @@ class Solution {
             sum += apple[i];
        }
        Arrays.sort(capacity);
+       int current = 0;
        int count = 0;
        for(int i = capacity.length-1; i >= 0; i--){
-            if(sum <= 0){
-                return count;
+           current += capacity[i];
+           count++;
+           if(current >= sum){
+            return count;
             }
-            sum -= capacity[i];
-            count++;
-       }
+        }
        return count;
     }
 }
