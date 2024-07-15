@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/zeyaurrahman786/LeetCode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/zeyaurrahman786/LeetCode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/zeyaurrahman786/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -73,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/zeyaurrahman786/LeetCode/tree/master/1137-height-checker) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/zeyaurrahman786/LeetCode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/zeyaurrahman786/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
