@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/zeyaurrahman786/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/zeyaurrahman786/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1137-height-checker](https://github.com/zeyaurrahman786/LeetCode/tree/master/1137-height-checker) |
 | [1319-unique-number-of-occurrences](https://github.com/zeyaurrahman786/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/zeyaurrahman786/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Two Pointers
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/0088-merge-sorted-array) |
+| [1137-height-checker](https://github.com/zeyaurrahman786/LeetCode/tree/master/1137-height-checker) |
 ## Sliding Window
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/zeyaurrahman786/LeetCode/tree/master/0001-two-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/zeyaurrahman786/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/zeyaurrahman786/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/zeyaurrahman786/LeetCode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
