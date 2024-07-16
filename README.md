@@ -86,10 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/zeyaurrahman786/LeetCode/tree/master/0053-maximum-subarray) |
+| [0338-counting-bits](https://github.com/zeyaurrahman786/LeetCode/tree/master/0338-counting-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/zeyaurrahman786/LeetCode/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/zeyaurrahman786/LeetCode/tree/master/0338-counting-bits) |
 ## Greedy
 |  |
 | ------- |
