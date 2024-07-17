@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/zeyaurrahman786/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/zeyaurrahman786/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/zeyaurrahman786/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zeyaurrahman786/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3334-apple-redistribution-into-boxes](https://github.com/zeyaurrahman786/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Two Pointers
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/zeyaurrahman786/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/zeyaurrahman786/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zeyaurrahman786/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/zeyaurrahman786/LeetCode/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/zeyaurrahman786/LeetCode/tree/master/0338-counting-bits) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zeyaurrahman786/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Bit Manipulation
 |  |
 | ------- |
