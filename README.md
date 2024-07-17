@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/zeyaurrahman786/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/zeyaurrahman786/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/zeyaurrahman786/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/zeyaurrahman786/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/zeyaurrahman786/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/zeyaurrahman786/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Math
@@ -66,11 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/zeyaurrahman786/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/zeyaurrahman786/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/zeyaurrahman786/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/zeyaurrahman786/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/zeyaurrahman786/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/zeyaurrahman786/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Hash Table
