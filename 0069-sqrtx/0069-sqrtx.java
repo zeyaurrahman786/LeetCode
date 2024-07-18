@@ -3,17 +3,19 @@ class Solution {
         if(x==0 || x==1){
             return x;
         }
-
-        int start = 0;
-        int end = x;
-        int mid=-1;
-
-        while(start <= end){
-             mid = start+(end-start)/2;
-            if((long)mid*mid > (long)x) end = mid-1;
-            else if(mid*mid == x) return mid;
-            else start = mid+1;
+        long i = 1, j = x;
+        while(i <= j){
+            long mid = i + (j - i) / 2;
+            if(mid * mid == (long)x){
+                return (int)mid;
+            }
+            else if(mid * mid > (long)x){
+                j = mid - 1;
+            }
+            else{
+                i = mid + 1;
+            }
         }
-        return Math.round(end);
+        return (int)j;
     }
 }
