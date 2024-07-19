@@ -17,7 +17,6 @@ class Solution {
             }
             else j++;
         }
-
         return total == sLen;
     }
 }
