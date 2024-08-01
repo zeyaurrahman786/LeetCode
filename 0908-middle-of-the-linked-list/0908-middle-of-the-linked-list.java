@@ -10,19 +10,14 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-        ListNode temp = head;
-        int size = 0;
-        while (temp != null) {
-            temp = temp.next;
-            size++;
+        if (head.next == null) {
+            return head;
         }
-        size /= 2;
-        ListNode ans = head;
-        int i = 0;
-        while (i < size) {
-            ans = ans.next;
-            i++;
+        ListNode tortoise = head, rabbit = head;
+        while (rabbit != null && rabbit.next != null) {
+            rabbit = rabbit.next.next;
+            tortoise = tortoise.next;
         }
-        return ans;
+        return tortoise;
     }
 }
