@@ -13,16 +13,13 @@ class Solution {
         if (head == null || head.next == null || k == 1) {
             return head;
         }
-
         if (size(head) < k) {
             return head;
         }
-
         ListNode prev = null;
         ListNode temp = head;
         ListNode forward = null;
         int i = 0;
-
         while (temp != null && i < k) {
             forward = temp.next;
             temp.next = prev;
@@ -30,11 +27,9 @@ class Solution {
             temp = forward;
             i++;
         }
-
         head.next = reverseKGroup(forward, k);
         return prev;
     }
-
     public int size(ListNode head) {
         ListNode temp = head;
         int c = 0;
