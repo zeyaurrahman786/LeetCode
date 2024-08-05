@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/zeyaurrahman786/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/zeyaurrahman786/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/zeyaurrahman786/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2428-equal-row-and-column-pairs](https://github.com/zeyaurrahman786/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/zeyaurrahman786/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/zeyaurrahman786/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/zeyaurrahman786/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/zeyaurrahman786/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/zeyaurrahman786/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/zeyaurrahman786/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1137-height-checker](https://github.com/zeyaurrahman786/LeetCode/tree/master/1137-height-checker) |
 | [1777-determine-if-two-strings-are-close](https://github.com/zeyaurrahman786/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/zeyaurrahman786/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Divide and Conquer
 |  |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/zeyaurrahman786/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/zeyaurrahman786/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/zeyaurrahman786/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/zeyaurrahman786/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
