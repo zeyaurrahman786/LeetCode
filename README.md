@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/zeyaurrahman786/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2470-removing-stars-from-a-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/zeyaurrahman786/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/zeyaurrahman786/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/zeyaurrahman786/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -284,4 +286,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/zeyaurrahman786/LeetCode/tree/master/0020-valid-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/zeyaurrahman786/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2470-removing-stars-from-a-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
