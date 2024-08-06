@@ -11,6 +11,7 @@ class Solution {
         int minKeyPress = 0;
         // reverse
         for (int i = 25; i >= 0; i--) {
+            if (arr[i] == 0) break;
             int val = arr[i]*(count/8 + 1);
             minKeyPress += val;
             count++;
