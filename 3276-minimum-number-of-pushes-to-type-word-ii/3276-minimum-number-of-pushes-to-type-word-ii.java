@@ -11,20 +11,7 @@ class Solution {
         int minKeyPress = 0;
         // reverse
         for (int i = 25; i >= 0; i--) {
-            int multi = 0;
-            if (count < 8) {
-                multi = 1;
-            }
-            else if (count < 16) {
-                multi = 2;
-            }
-            else if (count < 24) {
-                multi = 3;
-            }
-            else {
-                multi = 4;
-            }
-            int val = arr[i]*multi;
+            int val = arr[i]*(count/8 + 1);
             minKeyPress += val;
             count++;
         }
