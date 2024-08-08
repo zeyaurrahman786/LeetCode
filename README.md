@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/zeyaurrahman786/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/zeyaurrahman786/LeetCode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/zeyaurrahman786/LeetCode/tree/master/0409-longest-palindrome) |
+| [0931-maximum-frequency-stack](https://github.com/zeyaurrahman786/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [1319-unique-number-of-occurrences](https://github.com/zeyaurrahman786/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/zeyaurrahman786/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/zeyaurrahman786/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -301,6 +302,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/zeyaurrahman786/LeetCode/tree/master/0020-valid-parentheses) |
 | [0735-asteroid-collision](https://github.com/zeyaurrahman786/LeetCode/tree/master/0735-asteroid-collision) |
+| [0931-maximum-frequency-stack](https://github.com/zeyaurrahman786/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/zeyaurrahman786/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+## Design
+|  |
+| ------- |
+| [0931-maximum-frequency-stack](https://github.com/zeyaurrahman786/LeetCode/tree/master/0931-maximum-frequency-stack) |
+## Ordered Set
+|  |
+| ------- |
+| [0931-maximum-frequency-stack](https://github.com/zeyaurrahman786/LeetCode/tree/master/0931-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
