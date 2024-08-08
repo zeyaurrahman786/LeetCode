@@ -15,7 +15,6 @@ class Solution {
                     s.pop();
                 }
             }
-
         }
         int[] ans = new int[s.size()];
         for (int i = ans.length - 1; i >= 0; i--) {
