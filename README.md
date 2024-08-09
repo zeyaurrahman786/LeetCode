@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/zeyaurrahman786/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/zeyaurrahman786/LeetCode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/zeyaurrahman786/LeetCode/tree/master/0792-binary-search) |
+| [0870-magic-squares-in-grid](https://github.com/zeyaurrahman786/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/zeyaurrahman786/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/zeyaurrahman786/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/zeyaurrahman786/LeetCode/tree/master/0202-happy-number) |
 | [0273-integer-to-english-words](https://github.com/zeyaurrahman786/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/zeyaurrahman786/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/zeyaurrahman786/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/zeyaurrahman786/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/zeyaurrahman786/LeetCode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/zeyaurrahman786/LeetCode/tree/master/0409-longest-palindrome) |
+| [0870-magic-squares-in-grid](https://github.com/zeyaurrahman786/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0931-maximum-frequency-stack](https://github.com/zeyaurrahman786/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [1319-unique-number-of-occurrences](https://github.com/zeyaurrahman786/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/zeyaurrahman786/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/zeyaurrahman786/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [2428-equal-row-and-column-pairs](https://github.com/zeyaurrahman786/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
