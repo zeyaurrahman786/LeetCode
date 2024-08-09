@@ -2,7 +2,6 @@ class Solution {
     public boolean isHappy(int n) {
         int slow = n;
         int fast = n;
-
         do {
             slow = sq(slow);
             fast = sq(sq(fast));
@@ -12,7 +11,6 @@ class Solution {
         }
         return false;
     }
-
     public int sq(int n) {
         int ans = 0;
         while (n > 0) {
