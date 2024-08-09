@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/zeyaurrahman786/LeetCode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/zeyaurrahman786/LeetCode/tree/master/0792-binary-search) |
 | [0921-spiral-matrix-iii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [0954-maximum-sum-circular-subarray](https://github.com/zeyaurrahman786/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/zeyaurrahman786/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1137-height-checker](https://github.com/zeyaurrahman786/LeetCode/tree/master/1137-height-checker) |
 | [1319-unique-number-of-occurrences](https://github.com/zeyaurrahman786/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/zeyaurrahman786/LeetCode/tree/master/0053-maximum-subarray) |
+| [0954-maximum-sum-circular-subarray](https://github.com/zeyaurrahman786/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/zeyaurrahman786/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/zeyaurrahman786/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/zeyaurrahman786/LeetCode/tree/master/0392-is-subsequence) |
+| [0954-maximum-sum-circular-subarray](https://github.com/zeyaurrahman786/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zeyaurrahman786/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Bit Manipulation
 |  |
@@ -316,4 +319,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0931-maximum-frequency-stack](https://github.com/zeyaurrahman786/LeetCode/tree/master/0931-maximum-frequency-stack) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/zeyaurrahman786/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/zeyaurrahman786/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
