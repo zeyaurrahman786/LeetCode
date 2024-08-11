@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/zeyaurrahman786/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0931-maximum-frequency-stack](https://github.com/zeyaurrahman786/LeetCode/tree/master/0931-maximum-frequency-stack) |
+| [0969-number-of-recent-calls](https://github.com/zeyaurrahman786/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Ordered Set
 |  |
 | ------- |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/zeyaurrahman786/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0954-maximum-sum-circular-subarray](https://github.com/zeyaurrahman786/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [0969-number-of-recent-calls](https://github.com/zeyaurrahman786/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -357,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/zeyaurrahman786/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/zeyaurrahman786/LeetCode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
