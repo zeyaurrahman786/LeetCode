@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/zeyaurrahman786/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/zeyaurrahman786/LeetCode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/zeyaurrahman786/LeetCode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zeyaurrahman786/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/zeyaurrahman786/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/zeyaurrahman786/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/zeyaurrahman786/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/zeyaurrahman786/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/zeyaurrahman786/LeetCode/tree/master/0202-happy-number) |
