@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/zeyaurrahman786/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/zeyaurrahman786/LeetCode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/zeyaurrahman786/LeetCode/tree/master/0605-can-place-flowers) |
+| [0624-maximum-distance-in-arrays](https://github.com/zeyaurrahman786/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/zeyaurrahman786/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/zeyaurrahman786/LeetCode/tree/master/0724-find-pivot-index) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/zeyaurrahman786/LeetCode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/zeyaurrahman786/LeetCode/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/zeyaurrahman786/LeetCode/tree/master/0605-can-place-flowers) |
+| [0624-maximum-distance-in-arrays](https://github.com/zeyaurrahman786/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0649-dota2-senate](https://github.com/zeyaurrahman786/LeetCode/tree/master/0649-dota2-senate) |
 | [0890-lemonade-change](https://github.com/zeyaurrahman786/LeetCode/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/2032-largest-odd-number-in-string) |
