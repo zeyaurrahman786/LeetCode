@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/zeyaurrahman786/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/zeyaurrahman786/LeetCode/tree/master/0202-happy-number) |
+| [0264-ugly-number-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/zeyaurrahman786/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/zeyaurrahman786/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/zeyaurrahman786/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/zeyaurrahman786/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/zeyaurrahman786/LeetCode/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0383-ransom-note](https://github.com/zeyaurrahman786/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/zeyaurrahman786/LeetCode/tree/master/0409-longest-palindrome) |
 | [0870-magic-squares-in-grid](https://github.com/zeyaurrahman786/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/zeyaurrahman786/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zeyaurrahman786/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/zeyaurrahman786/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0264-ugly-number-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/zeyaurrahman786/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/zeyaurrahman786/LeetCode/tree/master/0392-is-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/zeyaurrahman786/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/zeyaurrahman786/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zeyaurrahman786/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2413-smallest-number-in-infinite-set](https://github.com/zeyaurrahman786/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2636-maximum-subsequence-score](https://github.com/zeyaurrahman786/LeetCode/tree/master/2636-maximum-subsequence-score) |
