@@ -1,25 +1,23 @@
 class Solution {
     public int strangePrinter(String s) {
-        int[][] dp = new int[101][101];
-        for (int i = 0; i < 101; i++) {
-            Arrays.fill(dp[i], 1);
-        }
-
         int n = s.length();
+
         if (n == 0) {
             return 0;
         }
 
-        for (int i = 1; i < n; i++) {
-            for (int j = 0; j < n - i; j++) {
-                dp[j][j + i] = i + 1;
+        int[][] dp = new int[n][n];
 
-                for (int k = j + 1; k <= j + i; k++) {
-                    int temp = dp[j][k - 1] + dp[k][j + i];
-                    if (s.charAt(k - 1) == s.charAt(j + i)) {
-                        temp--;
+        for (int i = n - 1; i >= 0; i--) {
+            dp[i][i] = 1;
+
+            for (int j = i + 1; j < n; j++) {
+                dp[i][j] = dp[i][j - 1] + 1;
+
+                for (int k = i; k < j; k++) {
+                    if (s.charAt(k) == s.charAt(j)) {
+                        dp[i][j] = Math.min(dp[i][j], dp[i][k] + dp[k + 1][j - 1]);
                     }
-                    dp[j][j + i] = Math.min(temp, dp[j][j + i]);
                 }
             }
         }
