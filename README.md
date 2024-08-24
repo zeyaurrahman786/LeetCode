@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/zeyaurrahman786/LeetCode/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/zeyaurrahman786/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0564-find-the-closest-palindrome](https://github.com/zeyaurrahman786/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/zeyaurrahman786/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/zeyaurrahman786/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/zeyaurrahman786/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/zeyaurrahman786/LeetCode/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/zeyaurrahman786/LeetCode/tree/master/0443-string-compression) |
+| [0564-find-the-closest-palindrome](https://github.com/zeyaurrahman786/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/zeyaurrahman786/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0649-dota2-senate](https://github.com/zeyaurrahman786/LeetCode/tree/master/0649-dota2-senate) |
 | [0664-strange-printer](https://github.com/zeyaurrahman786/LeetCode/tree/master/0664-strange-printer) |
