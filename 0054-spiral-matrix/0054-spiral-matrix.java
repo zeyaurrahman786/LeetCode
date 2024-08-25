@@ -3,10 +3,6 @@ class Solution {
 
         List<Integer> res = new ArrayList<Integer>();
 
-        if (matrix == null || matrix.length == 0) {
-            return res;
-        }
-
         int startRow = 0;
         int endRow = matrix.length - 1;
         int startCol = 0;
@@ -44,7 +40,7 @@ class Solution {
             endRow--;
             startCol++;
             endCol--;
-            
+
         }
         return res;
     }
