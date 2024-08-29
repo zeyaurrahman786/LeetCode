@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/zeyaurrahman786/LeetCode/tree/master/0409-longest-palindrome) |
 | [0870-magic-squares-in-grid](https://github.com/zeyaurrahman786/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0931-maximum-frequency-stack](https://github.com/zeyaurrahman786/LeetCode/tree/master/0931-maximum-frequency-stack) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/zeyaurrahman786/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/zeyaurrahman786/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1297-maximum-number-of-balloons](https://github.com/zeyaurrahman786/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/zeyaurrahman786/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/zeyaurrahman786/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/zeyaurrahman786/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/zeyaurrahman786/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/zeyaurrahman786/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/zeyaurrahman786/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/zeyaurrahman786/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/zeyaurrahman786/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/zeyaurrahman786/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/zeyaurrahman786/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/zeyaurrahman786/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [2035-count-sub-islands](https://github.com/zeyaurrahman786/LeetCode/tree/master/2035-count-sub-islands) |
 ## Data Stream
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/zeyaurrahman786/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/zeyaurrahman786/LeetCode/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
 |  |
