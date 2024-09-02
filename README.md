@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/zeyaurrahman786/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/zeyaurrahman786/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/zeyaurrahman786/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/zeyaurrahman786/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/zeyaurrahman786/LeetCode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/zeyaurrahman786/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/zeyaurrahman786/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/zeyaurrahman786/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/zeyaurrahman786/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/zeyaurrahman786/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/zeyaurrahman786/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Prefix Sum
 |  |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/zeyaurrahman786/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/1240-stone-game-ii) |
 | [1833-find-the-highest-altitude](https://github.com/zeyaurrahman786/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/zeyaurrahman786/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Hash Table
 |  |
 | ------- |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/zeyaurrahman786/LeetCode/tree/master/0735-asteroid-collision) |
 | [0921-spiral-matrix-iii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/zeyaurrahman786/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/zeyaurrahman786/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/zeyaurrahman786/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/2470-removing-stars-from-a-string) |
