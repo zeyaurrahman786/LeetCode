@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/zeyaurrahman786/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/zeyaurrahman786/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/zeyaurrahman786/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/zeyaurrahman786/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/zeyaurrahman786/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/zeyaurrahman786/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/zeyaurrahman786/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/zeyaurrahman786/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/2470-removing-stars-from-a-string) |
