@@ -12,7 +12,6 @@ class Solution {
         return ans;
     }
 
-
     public void Solve(List<List<String>> ans, char[][] board, int n, int col) {
         if (col == n) {
             ans.add(Convert(board));
@@ -27,7 +26,6 @@ class Solution {
         }
     }
 
-
     public List<String> Convert(char[][] board) {
         List<String> res = new ArrayList<>();
         for (int i = 0; i < board.length; i++) {
@@ -35,7 +33,6 @@ class Solution {
         }
         return res;
     }
-
 
     public boolean isSafe(int col, int row, char[][] board, int n) {
         int x = row, y = col;
