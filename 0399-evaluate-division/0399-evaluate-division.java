@@ -1,58 +1,57 @@
 class Solution {
+    private Map<String, Map<String, Double>> graph = new HashMap<>();
+
     public double[] calcEquation(List<List<String>> equations, double[] values, List<List<String>> queries) {
-        Map<String, Integer> map = new HashMap<>();
-        int ind = 0;
-        for (List<String> l : equations) {
-            if (!map.containsKey(l.get(0))) {
-                map.put(l.get(0), ind++);
-            }
-            if (!map.containsKey(l.get(1))) {
-                map.put(l.get(1), ind++);
-            }
-        }
-        List<List<String>> graph = new ArrayList<>();
-        int n = ind;
-        double[][] dist = new double[n][n];
-        for (double arr[] : dist) {
-            Arrays.fill(arr, Double.MAX_VALUE);
-        }
-        ind = 0;
-        for (List<String> l : equations) {
-            int u = map.get(l.get(0));
-            int v = map.get(l.get(1));
-            double val = values[ind++];
-            dist[u][v] = val;
-            dist[v][u] = 1 / val;
-        }
-
-        for (int k = 0; k < n; k++) {
-            for (int i = 0; i < n; i++) {
-                for (int j = 0; j < n; j++) {
-                    if (i != k && j != k) {
-                        if (dist[i][k] != Double.MAX_VALUE && dist[k][j] != Double.MAX_VALUE) {
-                            dist[i][j] = Math.min(dist[i][j], dist[i][k] * dist[k][j]);
-                        }
-                    }
-                }
-            }
-        }
+        buildGraph(equations, values);
         double[] res = new double[queries.size()];
-        ind = 0;
-        for (List<String> q : queries) {
-            if (map.containsKey(q.get(0)) && map.containsKey(q.get(1))) {
-                int u = map.get(q.get(0));
-                int v = map.get(q.get(1));
-                if (dist[u][v] == Double.MAX_VALUE) {
-                    res[ind++] = -1.00;
-                } else {
-                    res[ind++] = dist[u][v];
-                }
-
-            } else {
-                res[ind++] = -1.0;
-            }
+        for (int i = 0; i < queries.size(); i++) {
+            // find the start node
+            String var1 = queries.get(i).get(0);
+            // find the end node
+            String var2 = queries.get(i).get(1);
+            res[i] = dfs(var1, var2, new HashSet<>());
         }
         return res;
 
+    }
+
+    private void buildGraph(List<List<String>> equations, double[] values) {
+        for (int i = 0; i < equations.size(); i++) {
+            String val1 = equations.get(i).get(0);
+            String val2 = equations.get(i).get(1);
+            double value = values[i];
+
+            // check if val already exist in the graph, add it if
+            graph.putIfAbsent(val1, new HashMap<>());
+            graph.putIfAbsent(val2, new HashMap<>());
+
+            graph.get(val1).put(val2, value);
+            graph.get(val2).put(val1, 1.0 / value);
+
+        }
+
+    }
+
+    // use dfs to find the path between two nodes
+    private double dfs(String start, String end, Set<String> visited) {
+        // return condition
+        // if not exist
+        if (!graph.containsKey(start) || !graph.containsKey(end)) {
+            return -1.0;
+        }
+        if (start.equals(end)) {
+            return 1.0;
+        }
+        visited.add(start);
+        for (Map.Entry<String, Double> neighbor : graph.get(start).entrySet()) {
+            String next = neighbor.getKey();
+            if (!visited.contains(next)) {
+                double result = dfs(next, end, visited);
+                if (result != -1.0) {
+                    return result * neighbor.getValue();
+                }
+            }
+        }
+        return -1.0;
     }
 }
