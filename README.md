@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/zeyaurrahman786/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/zeyaurrahman786/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/zeyaurrahman786/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/zeyaurrahman786/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/zeyaurrahman786/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/zeyaurrahman786/LeetCode/tree/master/0202-happy-number) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/zeyaurrahman786/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/zeyaurrahman786/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/zeyaurrahman786/LeetCode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/zeyaurrahman786/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/zeyaurrahman786/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/zeyaurrahman786/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/zeyaurrahman786/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/zeyaurrahman786/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/zeyaurrahman786/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/zeyaurrahman786/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/zeyaurrahman786/LeetCode/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/zeyaurrahman786/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/zeyaurrahman786/LeetCode/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/zeyaurrahman786/LeetCode/tree/master/0906-walking-robot-simulation) |
