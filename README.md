@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/zeyaurrahman786/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/zeyaurrahman786/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/zeyaurrahman786/LeetCode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/zeyaurrahman786/LeetCode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/zeyaurrahman786/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Dynamic Programming
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/zeyaurrahman786/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/zeyaurrahman786/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/zeyaurrahman786/LeetCode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/zeyaurrahman786/LeetCode/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/zeyaurrahman786/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/zeyaurrahman786/LeetCode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/zeyaurrahman786/LeetCode/tree/master/0476-number-complement) |
