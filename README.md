@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/zeyaurrahman786/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/zeyaurrahman786/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/zeyaurrahman786/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/zeyaurrahman786/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/zeyaurrahman786/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/zeyaurrahman786/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2727-number-of-senior-citizens](https://github.com/zeyaurrahman786/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/zeyaurrahman786/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/zeyaurrahman786/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/zeyaurrahman786/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/zeyaurrahman786/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Greedy
 |  |
 | ------- |
@@ -747,4 +749,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/zeyaurrahman786/LeetCode/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/zeyaurrahman786/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/zeyaurrahman786/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
