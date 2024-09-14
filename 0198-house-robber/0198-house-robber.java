@@ -1,23 +1,22 @@
 class Solution {
     public int rob(int[] nums) {
-        // If only 1 element, just return it
-        if (nums.length < 2)
+        int n = nums.length;
+        int[] dp = new int[n];
+        Arrays.fill(dp, -1);
+        int ans = Solve(nums, n - 1, dp);
+        return ans;
+    }
+
+    public int Solve(int[] nums, int n, int[] dp) {
+        if (n < 0)
+            return 0;
+        if (n == 0)
             return nums[0];
-
-        // Create array to store the maximum loot at each index
-        int[] dp = new int[nums.length];
-
-        // Memoize maximum loots at first 2 indexes
-        dp[0] = nums[0];
-        dp[1] = Math.max(nums[0], nums[1]);
-
-        // Use them to fill complete array
-        for (int i = 2; i < nums.length; i++) {
-
-            // Core logic
-            dp[i] = Math.max(dp[i - 2] + nums[i], dp[i - 1]);
-        }
-
-        return dp[nums.length - 1];
+        if (dp[n] != -1)
+            return dp[n];
+        int pick = Solve(nums, n - 2, dp) + nums[n];
+        int notPick = Solve(nums, n - 1, dp);
+        dp[n] = Math.max(pick, notPick);
+        return dp[n];
     }
 }
