@@ -20,6 +20,10 @@
 
 // Time Limited Exceeded
 
+
+
+
+
 // Top Down DP    -> 2D DP
 
 // class Solution {
@@ -49,22 +53,56 @@
 //     }
 // }
 
+
+
+
+
 // Bottom Up DP
+
+// class Solution {
+//     public int longestCommonSubsequence(String a, String b) {
+//         int[][] dp = new int[a.length() + 1][b.length() + 1];
+//         for (int i = a.length() - 1; i >= 0; i--) {
+//             for (int j = b.length() - 1; j >= 0; j--) {
+//                 int ans = 0;
+//                 if (a.charAt(i) == b.charAt(j)) {
+//                     ans = dp[i + 1][j + 1] + 1;
+//                 } else {
+//                     ans = Math.max(dp[i + 1][j], dp[i][j + 1]);
+//                 }
+//                 dp[i][j] = ans;
+//             }
+//         }
+//         return dp[0][0];
+//     }
+// }
+
+
+
+
+
+
+// Space Optimization
 
 class Solution {
     public int longestCommonSubsequence(String a, String b) {
-        int[][] dp = new int[a.length() + 1][b.length() + 1];
+        int[] curr = new int[b.length() + 1];
+        int[] next = new int[b.length() + 1];
+
         for (int i = a.length() - 1; i >= 0; i--) {
             for (int j = b.length() - 1; j >= 0; j--) {
                 int ans = 0;
                 if (a.charAt(i) == b.charAt(j)) {
-                    ans = dp[i + 1][j + 1] + 1;
+                    ans = next[j + 1] + 1;
                 } else {
-                    ans = Math.max(dp[i + 1][j], dp[i][j + 1]);
+                    ans = Math.max(next[j], curr[j + 1]);
                 }
-                dp[i][j] = ans;
+                curr[j] = ans;
+            }
+            for (int k = 0; k < b.length(); k++) {
+                next[k] = curr[k];
             }
         }
-        return dp[0][0];
+        return curr[0];
     }
 }
