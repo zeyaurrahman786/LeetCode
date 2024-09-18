@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/zeyaurrahman786/LeetCode/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/zeyaurrahman786/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/zeyaurrahman786/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/zeyaurrahman786/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/zeyaurrahman786/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/zeyaurrahman786/LeetCode/tree/master/0735-asteroid-collision) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/zeyaurrahman786/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0650-2-keys-keyboard](https://github.com/zeyaurrahman786/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/zeyaurrahman786/LeetCode/tree/master/0664-strange-printer) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/zeyaurrahman786/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/zeyaurrahman786/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/zeyaurrahman786/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0954-maximum-sum-circular-subarray](https://github.com/zeyaurrahman786/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/zeyaurrahman786/LeetCode/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/zeyaurrahman786/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0649-dota2-senate](https://github.com/zeyaurrahman786/LeetCode/tree/master/0649-dota2-senate) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/zeyaurrahman786/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/zeyaurrahman786/LeetCode/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2636-maximum-subsequence-score](https://github.com/zeyaurrahman786/LeetCode/tree/master/2636-maximum-subsequence-score) |
