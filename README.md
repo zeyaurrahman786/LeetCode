@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/zeyaurrahman786/LeetCode/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/zeyaurrahman786/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0214-shortest-palindrome](https://github.com/zeyaurrahman786/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/zeyaurrahman786/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/zeyaurrahman786/LeetCode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/zeyaurrahman786/LeetCode/tree/master/0273-integer-to-english-words) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/zeyaurrahman786/LeetCode/tree/master/0214-shortest-palindrome) |
 ## Linked List
 |  |
 | ------- |
@@ -808,4 +810,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/zeyaurrahman786/LeetCode/tree/master/0062-unique-paths) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/zeyaurrahman786/LeetCode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/zeyaurrahman786/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
