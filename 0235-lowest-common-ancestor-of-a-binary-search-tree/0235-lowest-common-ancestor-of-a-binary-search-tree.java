@@ -19,8 +19,8 @@ class Solution {
                 root = root.right;
 
             else
-                return root;
+                break;
         }
-        return null;
+        return root;
     }
 }
