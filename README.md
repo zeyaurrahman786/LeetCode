@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-total-cost-to-hire-k-workers](https://github.com/zeyaurrahman786/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/zeyaurrahman786/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2727-number-of-senior-citizens](https://github.com/zeyaurrahman786/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3334-apple-redistribution-into-boxes](https://github.com/zeyaurrahman786/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/zeyaurrahman786/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/zeyaurrahman786/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2755-extra-characters-in-a-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/zeyaurrahman786/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/zeyaurrahman786/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zeyaurrahman786/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/zeyaurrahman786/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2755-extra-characters-in-a-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/zeyaurrahman786/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/zeyaurrahman786/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -500,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/zeyaurrahman786/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/zeyaurrahman786/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1397-search-suggestions-system](https://github.com/zeyaurrahman786/LeetCode/tree/master/1397-search-suggestions-system) |
+| [2755-extra-characters-in-a-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Interactive
 |  |
 | ------- |
