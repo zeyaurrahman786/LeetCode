@@ -1,30 +1,41 @@
 class Solution {
+    Trie root;
+
     public int longestCommonPrefix(int[] arr1, int[] arr2) {
-        HashMap<String, Integer> prefixMap = new HashMap<>();
-
-        // Step 1: Build the prefix map for arr1
-        for (int num : arr1) {
-            String strNum = Integer.toString(num);
-            String prefix = "";
-            for (char ch : strNum.toCharArray()) {
-                prefix += ch;
-                prefixMap.put(prefix, prefixMap.getOrDefault(prefix, 0) + 1);
-            }
-        }
-
-        int maxLength = 0;
-
-        // Step 2: Check for common prefixes in arr2
-        for (int num : arr2) {
-            String strNum = Integer.toString(num);
-            String prefix = "";
-            for (char ch : strNum.toCharArray()) {
-                prefix += ch;
-                if (prefixMap.containsKey(prefix)) {
-                    maxLength = Math.max(maxLength, prefix.length());
+        root = new Trie();
+        for (int val : arr1) {
+            Trie curr = root;
+            for (char ch : String.valueOf(val).toCharArray()) {
+                if (curr.children[ch - '0'] == null) {
+                    curr.children[ch - '0'] = new Trie();
                 }
+                curr = curr.children[ch - '0'];
             }
         }
-        return maxLength;
+
+        int currCount = 0;
+        int ans = 0;
+        for (int val : arr2) {
+            Trie curr = root;
+            for (char ch : String.valueOf(val).toCharArray()) {
+                if (curr.children[ch - '0'] == null) {
+                    break;
+                }
+                currCount++;
+                curr = curr.children[ch - '0'];
+            }
+            ans = Math.max(ans, currCount);
+            currCount = 0;
+        }
+        return ans;
+
+    }
+
+    class Trie {
+        Trie children[] = new Trie[10];
+
+        Trie() {
+        }
+
     }
 }
