@@ -13,7 +13,6 @@ class Solution {
             }
             cache.put(sum, cache.getOrDefault(sum, 0) + 1);
         }
-
         return count;
     }
 }
