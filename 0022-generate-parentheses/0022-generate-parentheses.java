@@ -1,22 +1,26 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
         List<String> ans = new ArrayList<>();
-        Solve("", 0, 0, n, ans);
+        Solve(new StringBuilder(), 0, 0, n, ans);
         return ans;
     }
 
-    public void Solve(String curr, int open, int closed, int total, List<String> ans) {
+    public void Solve(StringBuilder curr, int open, int closed, int total, List<String> ans) {
         if (curr.length() == 2 * total) {
-            ans.add(curr);
+            ans.add(curr.toString());
             return;
         }
 
         if (open < total) {
-            Solve(curr + "(", open + 1, closed, total, ans);
+            curr.append("("); // Add an open parenthesis
+            Solve(curr, open + 1, closed, total, ans);
+            curr.deleteCharAt(curr.length() - 1); // Backtrack
         }
 
         if (closed < open) {
-            Solve(curr + ")", open, closed + 1, total, ans);
+            curr.append(")"); // Add a close parenthesis
+            Solve(curr, open, closed + 1, total, ans);
+            curr.deleteCharAt(curr.length() - 1); // Backtrack
         }
     }
 }
