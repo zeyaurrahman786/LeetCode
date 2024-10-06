@@ -11,20 +11,15 @@ class Solution {
                 ans = Math.min(ans, nums[low]);
                 break;
             }
-
             // if left part is sorted:
             if (nums[low] <= nums[mid]) {
                 // keep the minimum:
                 ans = Math.min(ans, nums[low]);
-
                 // Eliminate left half:
                 low = mid + 1;
-
             } else { // if right part is sorted:
-
                 // keep the minimum:
                 ans = Math.min(ans, nums[mid]);
-
                 // Eliminate right half:
                 high = mid - 1;
             }
