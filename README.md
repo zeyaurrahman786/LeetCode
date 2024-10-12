@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/zeyaurrahman786/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/zeyaurrahman786/LeetCode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/zeyaurrahman786/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/zeyaurrahman786/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/zeyaurrahman786/LeetCode/tree/master/0162-find-peak-element) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/zeyaurrahman786/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/zeyaurrahman786/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/zeyaurrahman786/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/zeyaurrahman786/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/zeyaurrahman786/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/zeyaurrahman786/LeetCode/tree/master/0146-lru-cache) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/zeyaurrahman786/LeetCode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zeyaurrahman786/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/zeyaurrahman786/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/zeyaurrahman786/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/zeyaurrahman786/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0213-house-robber-ii) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/zeyaurrahman786/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/zeyaurrahman786/LeetCode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/zeyaurrahman786/LeetCode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/zeyaurrahman786/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/zeyaurrahman786/LeetCode/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/zeyaurrahman786/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -573,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/zeyaurrahman786/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/zeyaurrahman786/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/zeyaurrahman786/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/zeyaurrahman786/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/zeyaurrahman786/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
@@ -939,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/zeyaurrahman786/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/zeyaurrahman786/LeetCode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/zeyaurrahman786/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1236-n-th-tribonacci-number](https://github.com/zeyaurrahman786/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Brainteaser
