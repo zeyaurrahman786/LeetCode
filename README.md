@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/zeyaurrahman786/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/zeyaurrahman786/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/zeyaurrahman786/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/zeyaurrahman786/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/zeyaurrahman786/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/zeyaurrahman786/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/zeyaurrahman786/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/zeyaurrahman786/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/zeyaurrahman786/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/zeyaurrahman786/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/zeyaurrahman786/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/zeyaurrahman786/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/zeyaurrahman786/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/0729-my-calendar-i) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/zeyaurrahman786/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/zeyaurrahman786/LeetCode/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/zeyaurrahman786/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/zeyaurrahman786/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/zeyaurrahman786/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/zeyaurrahman786/LeetCode/tree/master/0392-is-subsequence) |
