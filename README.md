@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/zeyaurrahman786/LeetCode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/zeyaurrahman786/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/zeyaurrahman786/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/zeyaurrahman786/LeetCode/tree/master/2411-spiral-matrix-iv) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/zeyaurrahman786/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/zeyaurrahman786/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/zeyaurrahman786/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/zeyaurrahman786/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/zeyaurrahman786/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/zeyaurrahman786/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Greedy
@@ -934,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/zeyaurrahman786/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/zeyaurrahman786/LeetCode/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0216-combination-sum-iii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/zeyaurrahman786/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1011,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/zeyaurrahman786/LeetCode/tree/master/0204-count-primes) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/zeyaurrahman786/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Randomized
 |  |
 | ------- |
