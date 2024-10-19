@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/zeyaurrahman786/LeetCode/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/zeyaurrahman786/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/zeyaurrahman786/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/zeyaurrahman786/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0539-minimum-time-difference](https://github.com/zeyaurrahman786/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/zeyaurrahman786/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/zeyaurrahman786/LeetCode/tree/master/0409-longest-palindrome) |
 | [0432-all-oone-data-structure](https://github.com/zeyaurrahman786/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/zeyaurrahman786/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/zeyaurrahman786/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
