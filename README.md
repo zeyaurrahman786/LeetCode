@@ -587,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/zeyaurrahman786/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/zeyaurrahman786/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/zeyaurrahman786/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1197-parsing-a-boolean-expression](https://github.com/zeyaurrahman786/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/zeyaurrahman786/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/zeyaurrahman786/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1304-longest-happy-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/1304-longest-happy-string) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/zeyaurrahman786/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/zeyaurrahman786/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/0394-decode-string) |
+| [1197-parsing-a-boolean-expression](https://github.com/zeyaurrahman786/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/zeyaurrahman786/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/zeyaurrahman786/LeetCode/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/zeyaurrahman786/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/zeyaurrahman786/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1197-parsing-a-boolean-expression](https://github.com/zeyaurrahman786/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/zeyaurrahman786/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/zeyaurrahman786/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/zeyaurrahman786/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
