@@ -6,7 +6,6 @@ class Solution {
         int l = 0;
         int r = n - 1;
         int ans  = 0;
-
         while (l < r){
             if(height[l] > leftMax) {
                 leftMax = Math.max(leftMax, height[l]);
@@ -14,7 +13,6 @@ class Solution {
             if(height[r] > rightMax) {
                 rightMax = Math.max(rightMax, height[r]);
             }
-
             if(leftMax < rightMax) {
                 ans = ans + leftMax - height[l];
                 l++;
@@ -24,7 +22,6 @@ class Solution {
                 r--;
             }
         }
-
         return ans;
     }
 }
