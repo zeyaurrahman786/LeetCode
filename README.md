@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/zeyaurrahman786/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/zeyaurrahman786/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/zeyaurrahman786/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2554-minimum-total-distance-traveled](https://github.com/zeyaurrahman786/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/zeyaurrahman786/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2636-maximum-subsequence-score](https://github.com/zeyaurrahman786/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2727-number-of-senior-citizens](https://github.com/zeyaurrahman786/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/zeyaurrahman786/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/zeyaurrahman786/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/zeyaurrahman786/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2554-minimum-total-distance-traveled](https://github.com/zeyaurrahman786/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/zeyaurrahman786/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2636-maximum-subsequence-score](https://github.com/zeyaurrahman786/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zeyaurrahman786/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/zeyaurrahman786/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2554-minimum-total-distance-traveled](https://github.com/zeyaurrahman786/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2755-extra-characters-in-a-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/zeyaurrahman786/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Bit Manipulation
