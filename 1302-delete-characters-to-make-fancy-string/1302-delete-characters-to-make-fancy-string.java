@@ -1,17 +1,19 @@
 class Solution {
     public String makeFancyString(String s) {
-        int n = s.length();
-        if (n <= 2) {
-            return s;
-        }
-        StringBuilder sb = new StringBuilder();
-        sb.append(s.charAt(0));
-        sb.append(s.charAt(1));
-        for (int i = 2; i < n; i++) {
-            if (sb.charAt(sb.length() - 1) != s.charAt(i) || sb.charAt(sb.length() - 2) != s.charAt(i)) {
-                sb.append(s.charAt(i));
+        StringBuilder ans = new StringBuilder();
+        ans.append(s.charAt(0));
+        int n = s.length(), cnt = 1;
+        
+        for (int i = 1; i < n; i++) {
+            if (s.charAt(i) == ans.charAt(ans.length() - 1)) {
+                cnt++;
+                if (cnt < 3) ans.append(s.charAt(i));
+            } else {
+                cnt = 1;
+                ans.append(s.charAt(i));
             }
         }
-        return sb.toString();
+        
+        return ans.toString();
     }
 }
