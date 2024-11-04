@@ -1,34 +1,41 @@
 public class Solution {
     public List<String> fullJustify(String[] words, int maxWidth) {
         List<String> res = new ArrayList<>();
-        List<String> cur = new ArrayList<>();
-        int num_of_letters = 0;
+        List<String> curWords = new ArrayList<>();
+        int curLen = 0;
 
         for (String word : words) {
-            if (word.length() + cur.size() + num_of_letters > maxWidth) {
-                for (int i = 0; i < maxWidth - num_of_letters; i++) {
-                    cur.set(i % (cur.size() - 1 > 0 ? cur.size() - 1 : 1),
-                            cur.get(i % (cur.size() - 1 > 0 ? cur.size() - 1 : 1)) + " ");
+            if (curLen + word.length() + curWords.size() > maxWidth) {
+                int totalSpaces = maxWidth - curLen;
+                int gaps = curWords.size() - 1;
+                if (gaps == 0) {
+                    res.add(curWords.get(0) + " ".repeat(totalSpaces));
+                } else {
+                    int spacePerGap = totalSpaces / gaps;
+                    int extraSpaces = totalSpaces % gaps;
+                    StringBuilder line = new StringBuilder();
+                    for (int i = 0; i < curWords.size(); i++) {
+                        line.append(curWords.get(i));
+                        if (i < gaps) {
+                            line.append(" ".repeat(spacePerGap));
+                            if (i < extraSpaces) {
+                                line.append(' ');
+                            }
+                        }
+                    }
+                    res.add(line.toString());
                 }
-                StringBuilder sb = new StringBuilder();
-                for (String s : cur)
-                    sb.append(s);
-                res.add(sb.toString());
-                cur.clear();
-                num_of_letters = 0;
+                curWords.clear();
+                curLen = 0;
             }
-            cur.add(word);
-            num_of_letters += word.length();
+            curWords.add(word);
+            curLen += word.length();
         }
 
-        StringBuilder lastLine = new StringBuilder();
-        for (int i = 0; i < cur.size(); i++) {
-            lastLine.append(cur.get(i));
-            if (i != cur.size() - 1)
-                lastLine.append(" ");
+        StringBuilder lastLine = new StringBuilder(String.join(" ", curWords));
+        while (lastLine.length() < maxWidth) {
+            lastLine.append(' ');
         }
-        while (lastLine.length() < maxWidth)
-            lastLine.append(" ");
         res.add(lastLine.toString());
 
         return res;
