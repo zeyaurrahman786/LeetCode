@@ -1,16 +1,11 @@
 class Solution {
     public int rangeBitwiseAnd(int left, int right) {
-        // Using Shift Operator for Optimization
-
-        int shift = 0;
-        // Find the common MSB (Most Significant Bit) of left and right
+        int shifts = 0;
         while (left < right) {
-            left >>= 1;
-            right >>= 1;
-            shift++;
+            left = left >> 1;
+            right = right >> 1;
+            shifts++;
         }
-        // Shift left by the common MSB to get the result
-        int optimizedResult = left << shift;
-        return optimizedResult;
+        return left << shifts;
     }
 }
