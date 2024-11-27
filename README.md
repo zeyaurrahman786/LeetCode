@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/zeyaurrahman786/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3334-apple-redistribution-into-boxes](https://github.com/zeyaurrahman786/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
 |  |
@@ -1010,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/zeyaurrahman786/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/zeyaurrahman786/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Union Find
 |  |
 | ------- |
@@ -1189,6 +1191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/zeyaurrahman786/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2803-modify-graph-edge-weights](https://github.com/zeyaurrahman786/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 | [3189-find-champion-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/3189-find-champion-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Shortest Path
 |  |
 | ------- |
