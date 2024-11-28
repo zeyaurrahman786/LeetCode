@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/zeyaurrahman786/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/zeyaurrahman786/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/zeyaurrahman786/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/zeyaurrahman786/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/zeyaurrahman786/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/zeyaurrahman786/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
@@ -789,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/zeyaurrahman786/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/zeyaurrahman786/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/zeyaurrahman786/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/zeyaurrahman786/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/zeyaurrahman786/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/zeyaurrahman786/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -1009,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/zeyaurrahman786/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/zeyaurrahman786/LeetCode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/zeyaurrahman786/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/zeyaurrahman786/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/zeyaurrahman786/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -1098,6 +1101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/zeyaurrahman786/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1397-search-suggestions-system](https://github.com/zeyaurrahman786/LeetCode/tree/master/1397-search-suggestions-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/zeyaurrahman786/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/zeyaurrahman786/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2413-smallest-number-in-infinite-set](https://github.com/zeyaurrahman786/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/zeyaurrahman786/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/zeyaurrahman786/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -1189,6 +1193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/zeyaurrahman786/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/zeyaurrahman786/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/zeyaurrahman786/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/zeyaurrahman786/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2803-modify-graph-edge-weights](https://github.com/zeyaurrahman786/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 | [3189-find-champion-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -1197,6 +1202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/zeyaurrahman786/LeetCode/tree/master/0399-evaluate-division) |
 | [1325-path-with-maximum-probability](https://github.com/zeyaurrahman786/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/zeyaurrahman786/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2803-modify-graph-edge-weights](https://github.com/zeyaurrahman786/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 ## Number Theory
 |  |
