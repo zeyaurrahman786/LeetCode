@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-total-cost-to-hire-k-workers](https://github.com/zeyaurrahman786/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2554-minimum-total-distance-traveled](https://github.com/zeyaurrahman786/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/zeyaurrahman786/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2625-increment-submatrices-by-one](https://github.com/zeyaurrahman786/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2636-maximum-subsequence-score](https://github.com/zeyaurrahman786/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/zeyaurrahman786/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/zeyaurrahman786/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/zeyaurrahman786/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/zeyaurrahman786/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/zeyaurrahman786/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2625-increment-submatrices-by-one](https://github.com/zeyaurrahman786/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -804,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/zeyaurrahman786/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/zeyaurrahman786/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/zeyaurrahman786/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2625-increment-submatrices-by-one](https://github.com/zeyaurrahman786/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/zeyaurrahman786/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation
 |  |
