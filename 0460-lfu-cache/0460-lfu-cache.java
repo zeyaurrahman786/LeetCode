@@ -1,89 +1,56 @@
-import java.util.*;
-
 class LFUCache {
 
-    private int cacheCapacity, minFrequency; // \U0001f31f Maximum capacity and current minimum frequency
-    private Map<Integer, Integer> keyToValue; // \U0001f5c2️ Maps key -> value
-    private Map<Integer, Integer> keyToFrequency; // \U0001f522 Maps key -> frequency count
-    private Map<Integer, LinkedHashSet<Integer>> frequencyToKeys; // \U0001f6e0️ Maps frequency -> keys in insertion order
+    private final int capacity;
+    private int minFreq;
+    private final Map<Integer, int[]> keyToValFreq; // key -> [value, freq]
+    private final Map<Integer, LinkedHashSet<Integer>> freqToKeys;
 
     public LFUCache(int capacity) {
-        this.cacheCapacity = capacity; // \U0001f511 Cache size
-        this.minFrequency = 0; // \U0001f522 Initialize minimum frequency
-        this.keyToValue = new HashMap<>();
-        this.keyToFrequency = new HashMap<>();
-        this.frequencyToKeys = new HashMap<>();
+        this.capacity = capacity;
+        this.minFreq = 0;
+        keyToValFreq = new HashMap<>();
+        freqToKeys = new HashMap<>();
     }
 
-    // \U0001f3af Retrieve the value associated with the key
     public int get(int key) {
-        if (!keyToValue.containsKey(key)) {
-            return -1; // \U0001f6ab Key not found
+        if (!keyToValFreq.containsKey(key))
+            return -1;
+        int[] valFreq = keyToValFreq.get(key);
+        int val = valFreq[0];
+        int freq = valFreq[1];
+        // Remove from current freq set
+        freqToKeys.get(freq).remove(key);
+        // If current freq is minFreq and no keys left, increment minFreq
+        if (freq == minFreq && freqToKeys.get(freq).isEmpty()) {
+            minFreq++;
         }
-        // \U0001f504 Update the frequency of the key
-        updateKeyFrequency(key);
-        return keyToValue.get(key);
+        // Add to higher freq set
+        freq++;
+        freqToKeys.computeIfAbsent(freq, k -> new LinkedHashSet<>()).add(key);
+        // Update frequency
+        keyToValFreq.put(key, new int[] { val, freq });
+        return val;
     }
 
-    // ✍️ Insert or update a key-value pair
     public void put(int key, int value) {
-        if (cacheCapacity == 0)
-            return; // \U0001f6ab No capacity, do nothing
-
-        if (keyToValue.containsKey(key)) {
-            keyToValue.put(key, value); // \U0001f58a️ Update value
-            updateKeyFrequency(key); // \U0001f504 Update frequency
+        if (capacity == 0)
+            return;
+        if (keyToValFreq.containsKey(key)) {
+            keyToValFreq.get(key)[0] = value;
+            get(key); // Update frequency
             return;
         }
-
-        // \U0001f6a8 Evict the least frequently used key if at capacity
-        if (keyToValue.size() >= cacheCapacity) {
-            evictLeastFrequentKey();
+        if (keyToValFreq.size() >= capacity) {
+            // Evict the least frequently used key
+            LinkedHashSet<Integer> minFreqKeys = freqToKeys.get(minFreq);
+            int evictKey = minFreqKeys.iterator().next();
+            minFreqKeys.remove(evictKey);
+            keyToValFreq.remove(evictKey);
         }
-
-        // \U0001f195 Add the new key-value pair
-        keyToValue.put(key, value);
-        keyToFrequency.put(key, 1); // Start frequency at 1
-        frequencyToKeys.computeIfAbsent(1, k -> new LinkedHashSet<>()).add(key);
-        minFrequency = 1; // Reset minimum frequency to 1
-    }
-
-    // \U0001f504 Update the frequency of a key
-    private void updateKeyFrequency(int key) {
-        int currentFreq = keyToFrequency.get(key); // \U0001f522 Get the current frequency
-        frequencyToKeys.get(currentFreq).remove(key); // \U0001f5d1️ Remove key from current frequency bucket
-
-        // \U0001f31f If the frequency bucket is empty, remove it and adjust `minFrequency`
-        if (frequencyToKeys.get(currentFreq).isEmpty()) {
-            frequencyToKeys.remove(currentFreq);
-            if (currentFreq == minFrequency) {
-                minFrequency++;
-            }
-        }
-
-        // \U0001f522 Increase the frequency and move the key to the new frequency bucket
-        int newFreq = currentFreq + 1;
-        keyToFrequency.put(key, newFreq);
-        frequencyToKeys.computeIfAbsent(newFreq, k -> new LinkedHashSet<>()).add(key);
-    }
-
-    // \U0001f5d1️ Evict the least frequently used key
-    private void evictLeastFrequentKey() {
-        // \U0001f50d Get the list of keys with the minimum frequency
-        LinkedHashSet<Integer> keysWithMinFreq = frequencyToKeys.get(minFrequency);
-
-        // \U0001f6aa Remove the least recently used key
-        int keyToEvict = keysWithMinFreq.iterator().next();
-        keysWithMinFreq.remove(keyToEvict);
-
-        // \U0001f31f Clean up if the bucket becomes empty
-        if (keysWithMinFreq.isEmpty()) {
-            frequencyToKeys.remove(minFrequency);
-        }
-
-        // \U0001f5d1️ Remove the key from all mappings
-        keyToValue.remove(keyToEvict);
-        keyToFrequency.remove(keyToEvict);
+        // Insert new key
+        keyToValFreq.put(key, new int[] { value, 1 });
+        freqToKeys.computeIfAbsent(1, k -> new LinkedHashSet<>()).add(key);
+        minFreq = 1;
     }
 }
 
