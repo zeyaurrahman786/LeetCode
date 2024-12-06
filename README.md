@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/zeyaurrahman786/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/zeyaurrahman786/LeetCode/tree/master/0409-longest-palindrome) |
 | [0432-all-oone-data-structure](https://github.com/zeyaurrahman786/LeetCode/tree/master/0432-all-oone-data-structure) |
+| [0433-minimum-genetic-mutation](https://github.com/zeyaurrahman786/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0460-lfu-cache](https://github.com/zeyaurrahman786/LeetCode/tree/master/0460-lfu-cache) |
@@ -720,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/zeyaurrahman786/LeetCode/tree/master/0399-evaluate-division) |
 | [0409-longest-palindrome](https://github.com/zeyaurrahman786/LeetCode/tree/master/0409-longest-palindrome) |
+| [0433-minimum-genetic-mutation](https://github.com/zeyaurrahman786/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/zeyaurrahman786/LeetCode/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/zeyaurrahman786/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -1031,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/zeyaurrahman786/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/zeyaurrahman786/LeetCode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/zeyaurrahman786/LeetCode/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/zeyaurrahman786/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0547-number-of-provinces](https://github.com/zeyaurrahman786/LeetCode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/zeyaurrahman786/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0787-sliding-puzzle](https://github.com/zeyaurrahman786/LeetCode/tree/master/0787-sliding-puzzle) |
