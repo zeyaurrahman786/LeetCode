@@ -1,36 +1,28 @@
 // Buy and Sell Stock Pattern
-// Approach - 1 Memorization
+// Approach - 2 Tabulation
+
 
 class Solution {
     public int maxProfit(int[] prices) {
-
+        
         int n = prices.length;
-        int[][][] dp = new int[n][2][3];
-        for (int[][] i : dp) {
-            for (int[] j : i) {
-                Arrays.fill(j, -1);
+        int [][][]dp = new int [n+1][2][3];
+        int profit =0;
+        
+        for(int i=n-1;i>=0;i--){
+            for(int buy=0;buy<=1;buy++){
+                for(int transaction =1;transaction<=2;transaction++){
+                    if(buy ==0){
+                        profit = Math.max(0+dp[i+1][0][transaction], -prices[i]+ dp[i+1][1][transaction]);
+                    }
+                    if(buy ==1){
+                        profit = Math.max(0+dp[i+1][1][transaction],prices[i]+dp[i+1][0][transaction-1]);
+                    }
+                    dp[i][buy][transaction] = profit;
+                }
             }
         }
-        return solve(0, n, 0, 2, prices, dp);
-    }
-
-    int solve(int index, int n, int buy, int transaction, int[] prices, int[][][] dp) {
-
-        if (index == n || transaction == 0)
-            return 0;
-
-        if (dp[index][buy][transaction] != -1)
-            return dp[index][buy][transaction];
-
-        int profit = 0;
-        if (buy == 0) {
-            profit = Math.max(0 + solve(index + 1, n, 0, transaction, prices, dp),
-                    -prices[index] + solve(index + 1, n, 1, transaction, prices, dp));
-        }
-        if (buy == 1) {
-            profit = Math.max(0 + solve(index + 1, n, 1, transaction, prices, dp),
-                    prices[index] + solve(index + 1, n, 0, transaction - 1, prices, dp));
-        }
-        return dp[index][buy][transaction] = profit;
+        return dp[0][0][2];
+        
     }
 }
