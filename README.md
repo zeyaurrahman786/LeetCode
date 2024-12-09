@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/zeyaurrahman786/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/zeyaurrahman786/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3334-apple-redistribution-into-boxes](https://github.com/zeyaurrahman786/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3427-special-array-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/3427-special-array-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/zeyaurrahman786/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/zeyaurrahman786/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [3427-special-array-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/3427-special-array-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/zeyaurrahman786/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/zeyaurrahman786/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2625-increment-submatrices-by-one](https://github.com/zeyaurrahman786/LeetCode/tree/master/2625-increment-submatrices-by-one) |
+| [3427-special-array-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/3427-special-array-ii) |
 ## Hash Table
 |  |
 | ------- |
