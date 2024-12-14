@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/zeyaurrahman786/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/zeyaurrahman786/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/zeyaurrahman786/LeetCode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/zeyaurrahman786/LeetCode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/zeyaurrahman786/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/zeyaurrahman786/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/zeyaurrahman786/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/zeyaurrahman786/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/zeyaurrahman786/LeetCode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/zeyaurrahman786/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/zeyaurrahman786/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/zeyaurrahman786/LeetCode/tree/master/0190-reverse-bits) |
@@ -1277,6 +1279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/zeyaurrahman786/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/zeyaurrahman786/LeetCode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/zeyaurrahman786/LeetCode/tree/master/0089-gray-code) |
 | [0212-word-search-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0216-combination-sum-iii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/zeyaurrahman786/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
