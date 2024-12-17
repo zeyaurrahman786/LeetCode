@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/zeyaurrahman786/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/zeyaurrahman786/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2275-find-substring-with-given-hash-value](https://github.com/zeyaurrahman786/LeetCode/tree/master/2275-find-substring-with-given-hash-value) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/zeyaurrahman786/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/zeyaurrahman786/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/zeyaurrahman786/LeetCode/tree/master/2868-continuous-subarrays) |
@@ -831,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/zeyaurrahman786/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2275-find-substring-with-given-hash-value](https://github.com/zeyaurrahman786/LeetCode/tree/master/2275-find-substring-with-given-hash-value) |
 | [2300-construct-string-with-repeat-limit](https://github.com/zeyaurrahman786/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -1395,10 +1397,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/zeyaurrahman786/LeetCode/tree/master/0214-shortest-palindrome) |
+| [2275-find-substring-with-given-hash-value](https://github.com/zeyaurrahman786/LeetCode/tree/master/2275-find-substring-with-given-hash-value) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/zeyaurrahman786/LeetCode/tree/master/0214-shortest-palindrome) |
+| [2275-find-substring-with-given-hash-value](https://github.com/zeyaurrahman786/LeetCode/tree/master/2275-find-substring-with-given-hash-value) |
 ## Segment Tree
 |  |
 | ------- |
