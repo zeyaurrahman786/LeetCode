@@ -1107,6 +1107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/zeyaurrahman786/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/zeyaurrahman786/LeetCode/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0437-path-sum-iii) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/zeyaurrahman786/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/zeyaurrahman786/LeetCode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/zeyaurrahman786/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0721-accounts-merge](https://github.com/zeyaurrahman786/LeetCode/tree/master/0721-accounts-merge) |
@@ -1151,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/zeyaurrahman786/LeetCode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/zeyaurrahman786/LeetCode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/zeyaurrahman786/LeetCode/tree/master/0433-minimum-genetic-mutation) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/zeyaurrahman786/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/zeyaurrahman786/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/zeyaurrahman786/LeetCode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/zeyaurrahman786/LeetCode/tree/master/0617-merge-two-binary-trees) |
@@ -1228,6 +1230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/zeyaurrahman786/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/zeyaurrahman786/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/zeyaurrahman786/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/zeyaurrahman786/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/zeyaurrahman786/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/zeyaurrahman786/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -1319,6 +1322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/zeyaurrahman786/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/zeyaurrahman786/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/zeyaurrahman786/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/zeyaurrahman786/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/zeyaurrahman786/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zeyaurrahman786/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
