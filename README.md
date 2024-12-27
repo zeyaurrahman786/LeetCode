@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/zeyaurrahman786/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/zeyaurrahman786/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/zeyaurrahman786/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1063-best-sightseeing-pair](https://github.com/zeyaurrahman786/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1137-height-checker](https://github.com/zeyaurrahman786/LeetCode/tree/master/1137-height-checker) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/zeyaurrahman786/LeetCode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/zeyaurrahman786/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-sum-of-distances-in-tree](https://github.com/zeyaurrahman786/LeetCode/tree/master/0863-sum-of-distances-in-tree) |
 | [0943-sum-of-subarray-minimums](https://github.com/zeyaurrahman786/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/zeyaurrahman786/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1063-best-sightseeing-pair](https://github.com/zeyaurrahman786/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1236-n-th-tribonacci-number](https://github.com/zeyaurrahman786/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/zeyaurrahman786/LeetCode/tree/master/1250-longest-common-subsequence) |
