@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/zeyaurrahman786/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/zeyaurrahman786/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/zeyaurrahman786/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/zeyaurrahman786/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/zeyaurrahman786/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/zeyaurrahman786/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -703,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/zeyaurrahman786/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/zeyaurrahman786/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zeyaurrahman786/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/zeyaurrahman786/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/zeyaurrahman786/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2164-two-best-non-overlapping-events](https://github.com/zeyaurrahman786/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
@@ -841,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/zeyaurrahman786/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/zeyaurrahman786/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1668-find-longest-awesome-substring](https://github.com/zeyaurrahman786/LeetCode/tree/master/1668-find-longest-awesome-substring) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/zeyaurrahman786/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1777-determine-if-two-strings-are-close](https://github.com/zeyaurrahman786/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/zeyaurrahman786/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/zeyaurrahman786/LeetCode/tree/master/1894-merge-strings-alternately) |
