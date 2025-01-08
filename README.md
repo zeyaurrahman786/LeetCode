@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/zeyaurrahman786/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/zeyaurrahman786/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/zeyaurrahman786/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/zeyaurrahman786/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3334-apple-redistribution-into-boxes](https://github.com/zeyaurrahman786/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3427-special-array-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/3427-special-array-ii) |
@@ -889,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/zeyaurrahman786/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/zeyaurrahman786/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/zeyaurrahman786/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3451-string-compression-iii](https://github.com/zeyaurrahman786/LeetCode/tree/master/3451-string-compression-iii) |
@@ -906,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/zeyaurrahman786/LeetCode/tree/master/1397-search-suggestions-system) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/zeyaurrahman786/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/zeyaurrahman786/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Interactive
 |  |
@@ -984,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/zeyaurrahman786/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Linked List
 |  |
 | ------- |
@@ -1470,11 +1474,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/zeyaurrahman786/LeetCode/tree/master/0214-shortest-palindrome) |
 | [2275-find-substring-with-given-hash-value](https://github.com/zeyaurrahman786/LeetCode/tree/master/2275-find-substring-with-given-hash-value) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/zeyaurrahman786/LeetCode/tree/master/0214-shortest-palindrome) |
 | [2275-find-substring-with-given-hash-value](https://github.com/zeyaurrahman786/LeetCode/tree/master/2275-find-substring-with-given-hash-value) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Segment Tree
 |  |
 | ------- |
