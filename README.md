@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/zeyaurrahman786/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/zeyaurrahman786/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/zeyaurrahman786/LeetCode/tree/master/0399-evaluate-division) |
+| [0407-trapping-rain-water-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/zeyaurrahman786/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/zeyaurrahman786/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/zeyaurrahman786/LeetCode/tree/master/0436-find-right-interval) |
@@ -950,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/zeyaurrahman786/LeetCode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/zeyaurrahman786/LeetCode/tree/master/0542-01-matrix) |
 | [0787-sliding-puzzle](https://github.com/zeyaurrahman786/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/zeyaurrahman786/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -1211,6 +1213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/zeyaurrahman786/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/zeyaurrahman786/LeetCode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/zeyaurrahman786/LeetCode/tree/master/0399-evaluate-division) |
+| [0407-trapping-rain-water-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/zeyaurrahman786/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/zeyaurrahman786/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/zeyaurrahman786/LeetCode/tree/master/0542-01-matrix) |
@@ -1335,6 +1338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/zeyaurrahman786/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/zeyaurrahman786/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/zeyaurrahman786/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0407-trapping-rain-water-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/zeyaurrahman786/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/zeyaurrahman786/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zeyaurrahman786/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
