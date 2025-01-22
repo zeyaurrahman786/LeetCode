@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/zeyaurrahman786/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/zeyaurrahman786/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/zeyaurrahman786/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1876-map-of-highest-peak](https://github.com/zeyaurrahman786/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/zeyaurrahman786/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/zeyaurrahman786/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/zeyaurrahman786/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -971,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/zeyaurrahman786/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1677-matrix-diagonal-sum](https://github.com/zeyaurrahman786/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/zeyaurrahman786/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1876-map-of-highest-peak](https://github.com/zeyaurrahman786/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/zeyaurrahman786/LeetCode/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/zeyaurrahman786/LeetCode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/zeyaurrahman786/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -1240,6 +1242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/zeyaurrahman786/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/zeyaurrahman786/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/zeyaurrahman786/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1876-map-of-highest-peak](https://github.com/zeyaurrahman786/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/zeyaurrahman786/LeetCode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/zeyaurrahman786/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/zeyaurrahman786/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
