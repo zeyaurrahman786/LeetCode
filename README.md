@@ -1187,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/zeyaurrahman786/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/zeyaurrahman786/LeetCode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/zeyaurrahman786/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0684-redundant-connection](https://github.com/zeyaurrahman786/LeetCode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/zeyaurrahman786/LeetCode/tree/master/0721-accounts-merge) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/zeyaurrahman786/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/zeyaurrahman786/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -1239,6 +1240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/zeyaurrahman786/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/zeyaurrahman786/LeetCode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/zeyaurrahman786/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0684-redundant-connection](https://github.com/zeyaurrahman786/LeetCode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/zeyaurrahman786/LeetCode/tree/master/0721-accounts-merge) |
 | [0787-sliding-puzzle](https://github.com/zeyaurrahman786/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/zeyaurrahman786/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -1275,6 +1277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/zeyaurrahman786/LeetCode/tree/master/0130-surrounded-regions) |
 | [0399-evaluate-division](https://github.com/zeyaurrahman786/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/zeyaurrahman786/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/zeyaurrahman786/LeetCode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/zeyaurrahman786/LeetCode/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/zeyaurrahman786/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/zeyaurrahman786/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -1486,6 +1489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/zeyaurrahman786/LeetCode/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/zeyaurrahman786/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/zeyaurrahman786/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/zeyaurrahman786/LeetCode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/zeyaurrahman786/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/zeyaurrahman786/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0863-sum-of-distances-in-tree](https://github.com/zeyaurrahman786/LeetCode/tree/master/0863-sum-of-distances-in-tree) |
