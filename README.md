@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/zeyaurrahman786/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1325-path-with-maximum-probability](https://github.com/zeyaurrahman786/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/zeyaurrahman786/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1364-tuple-with-same-product](https://github.com/zeyaurrahman786/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/zeyaurrahman786/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/zeyaurrahman786/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1397-search-suggestions-system](https://github.com/zeyaurrahman786/LeetCode/tree/master/1397-search-suggestions-system) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/zeyaurrahman786/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/zeyaurrahman786/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1364-tuple-with-same-product](https://github.com/zeyaurrahman786/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/zeyaurrahman786/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/zeyaurrahman786/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/zeyaurrahman786/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/zeyaurrahman786/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1137-height-checker](https://github.com/zeyaurrahman786/LeetCode/tree/master/1137-height-checker) |
 | [1297-maximum-number-of-balloons](https://github.com/zeyaurrahman786/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1364-tuple-with-same-product](https://github.com/zeyaurrahman786/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/zeyaurrahman786/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/zeyaurrahman786/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/zeyaurrahman786/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
