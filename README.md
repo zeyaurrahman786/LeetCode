@@ -909,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/zeyaurrahman786/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/zeyaurrahman786/LeetCode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/zeyaurrahman786/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/zeyaurrahman786/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/zeyaurrahman786/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/zeyaurrahman786/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1197-parsing-a-boolean-expression](https://github.com/zeyaurrahman786/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
@@ -1248,6 +1249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/zeyaurrahman786/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/zeyaurrahman786/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/zeyaurrahman786/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/zeyaurrahman786/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/zeyaurrahman786/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/zeyaurrahman786/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/zeyaurrahman786/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1391,6 +1393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/zeyaurrahman786/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/zeyaurrahman786/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/zeyaurrahman786/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/zeyaurrahman786/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/zeyaurrahman786/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/zeyaurrahman786/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/zeyaurrahman786/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -1487,6 +1490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/zeyaurrahman786/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/zeyaurrahman786/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/zeyaurrahman786/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/zeyaurrahman786/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/zeyaurrahman786/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/zeyaurrahman786/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/zeyaurrahman786/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
