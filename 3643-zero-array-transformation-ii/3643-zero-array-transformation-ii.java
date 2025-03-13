@@ -1,44 +1,31 @@
 class Solution {
 
     public int minZeroArray(int[] nums, int[][] queries) {
-        int n = nums.length, left = 0, right = queries.length;
-
-        // Zero array isn't formed after all queries are processed
-        if (!currentIndexZero(nums, queries, right)) return -1;
-
-        // Binary Search
-        while (left <= right) {
-            int middle = left + (right - left) / 2;
-            if (currentIndexZero(nums, queries, middle)) {
-                right = middle - 1;
-            } else {
-                left = middle + 1;
-            }
-        }
-
-        // Return earliest query that zero array can be formed
-        return left;
-    }
-
-    private boolean currentIndexZero(int[] nums, int[][] queries, int k) {
-        int n = nums.length, sum = 0;
+        int n = nums.length, sum = 0, k = 0;
         int[] differenceArray = new int[n + 1];
 
-        // Process query
-        for (int queryIndex = 0; queryIndex < k; queryIndex++) {
-            int left = queries[queryIndex][0], right =
-                queries[queryIndex][1], val = queries[queryIndex][2];
+        // Iterate through nums
+        for (int index = 0; index < n; index++) {
+            // Iterate through queries while current index of nums cannot equal zero
+            while (sum + differenceArray[index] < nums[index]) {
+                k++;
 
-            // Process start and end of range
-            differenceArray[left] += val;
-            differenceArray[right + 1] -= val;
-        }
+                // Zero array isn't formed after all queries are processed
+                if (k > queries.length) {
+                    return -1;
+                }
+                int left = queries[k - 1][0], right = queries[k - 1][1], val =
+                    queries[k - 1][2];
 
-        // Check if zero array can be formed
-        for (int numIndex = 0; numIndex < n; numIndex++) {
-            sum += differenceArray[numIndex];
-            if (sum < nums[numIndex]) return false;
+                // Process start and end of range
+                if (right >= index) {
+                    differenceArray[Math.max(left, index)] += val;
+                    differenceArray[right + 1] -= val;
+                }
+            }
+            // Update prefix sum at current index
+            sum += differenceArray[index];
         }
-        return true;
+        return k;
     }
 }
