@@ -1,100 +1,126 @@
 class Solution {
 
-    // Directions for movement (down, up, right, left)
-    public static final int[][] DIRECTIONS = {
-        { 1, 0 },
-        { -1, 0 },
-        { 0, 1 },
-        { 0, -1 },
-    };
+    // Represents a cell in the grid with row index, column index, and value
+    record Cell(int row, int col, int value) {}
+
+    // Represents a query with its original index and value
+    record Query(int index, int value) {}
+
+    // Right, Left, Down, Up
+    private static final int[] ROW_DIRECTIONS = { 0, 0, 1, -1 };
+    // Corresponding column moves
+    private static final int[] COL_DIRECTIONS = { 1, -1, 0, 0 };
 
     public int[] maxPoints(int[][] grid, int[] queries) {
-        int queryCount = queries.length;
-        int[] result = new int[queryCount];
-        int rowCount = grid.length;
-        int colCount = grid[0].length;
-
+        int rowCount = grid.length, colCount = grid[0].length;
         int totalCells = rowCount * colCount;
-        // Stores the minimum query value needed to reach `i` points.
-        int[] thresholdForMaxPoints = new int[totalCells + 1];
 
-        // `minValueToReach[i][j]` keeps track of the maximum value encountered
-        // to reach cell (i, j), including itself.
-        int[][] minValueToReach = new int[rowCount][colCount];
-
-        // Initialize the minValueToReach array with a high value.
-        for (int[] row : minValueToReach) {
-            Arrays.fill(row, Integer.MAX_VALUE);
+        // Store queries with their original indices to maintain result order
+        Query[] sortedQueries = new Query[queries.length];
+        for (int i = 0; i < queries.length; i++) {
+            sortedQueries[i] = new Query(i, queries[i]);
         }
-        // Start from the top-left cell.
-        minValueToReach[0][0] = grid[0][0];
+        // Sort queries in ascending order
+        Arrays.sort(sortedQueries, (a, b) -> Integer.compare(a.value, b.value));
 
-        // Min-heap for processing cells in increasing order of their maximum
-        // encountered value.
-        PriorityQueue<int[]> minHeap = new PriorityQueue<>((a, b) ->
-            Integer.compare(a[2], b[2])
-        );
-        minHeap.offer(new int[] { 0, 0, grid[0][0] });
-        int visitedCells = 0;
-
-        // Dijkstra's algorithm to compute minValueToReach for each cell
-        while (!minHeap.isEmpty()) {
-            int[] current = minHeap.poll();
-            // Store the value required to reach `visitedCells` points.
-            thresholdForMaxPoints[++visitedCells] = current[2];
-            // Explore all possible directions.
-            for (int[] direction : DIRECTIONS) {
-                int newRow = current[0] + direction[0];
-                int newCol = current[1] + direction[1];
-
-                // Check if the new position is within bounds and not visited
-                // before.
-                if (
-                    newRow >= 0 &&
-                    newRow < rowCount &&
-                    newCol >= 0 &&
-                    newCol < colCount &&
-                    minValueToReach[newRow][newCol] == Integer.MAX_VALUE
-                ) {
-                    // The max value encountered on the path to this cell.
-                    minValueToReach[newRow][newCol] = Math.max(
-                        current[2],
-                        grid[newRow][newCol]
-                    );
-
-                    // Add the cell to the heap for further exploration.
-                    minHeap.offer(
-                        new int[] {
-                            newRow,
-                            newCol,
-                            minValueToReach[newRow][newCol],
-                        }
-                    );
-                }
+        // Store all grid cells and sort them by value
+        Cell[] sortedCells = new Cell[totalCells];
+        for (int row = 0; row < rowCount; row++) {
+            for (int col = 0; col < colCount; col++) {
+                sortedCells[row * colCount + col] = new Cell(
+                    row,
+                    col,
+                    grid[row][col]
+                );
             }
         }
+        // Sort cells by value
+        Arrays.sort(sortedCells, (a, b) -> Integer.compare(a.value, b.value));
 
-        // Use binary search to determine the maximum number of points that can
-        // be collected for each query.
-        for (int i = 0; i < queryCount; i++) {
-            int threshold = queries[i];
-            int left = 0, right = totalCells;
+        // Union-Find to track connected components
+        UnionFind uf = new UnionFind(totalCells);
+        int[] result = new int[queries.length];
+        int cellIndex = 0;
 
-            // Find the rightmost number of points we can collect before
-            // exceeding the query threshold.
-            while (left < right) {
-                int mid = (left + right + 1) >>> 1;
-                if (thresholdForMaxPoints[mid] < threshold) {
-                    left = mid;
-                } else {
-                    right = mid - 1;
+        // Process queries in sorted order
+        for (Query query : sortedQueries) {
+            // Process cells whose values are smaller than the current query value
+            while (
+                cellIndex < totalCells &&
+                sortedCells[cellIndex].value < query.value
+            ) {
+                int row = sortedCells[cellIndex].row;
+                int col = sortedCells[cellIndex].col;
+                // Convert 2D position to 1D index
+                int cellId = row * colCount + col;
+
+                // Merge the current cell with its adjacent cells that have already been
+                // processed
+                for (int direction = 0; direction < 4; direction++) {
+                    int newRow = row + ROW_DIRECTIONS[direction];
+                    int newCol = col + COL_DIRECTIONS[direction];
+
+                    // Check if the new cell is within bounds and its value is smaller than the
+                    // query value
+                    if (
+                        newRow >= 0 &&
+                        newRow < rowCount &&
+                        newCol >= 0 &&
+                        newCol < colCount &&
+                        grid[newRow][newCol] < query.value
+                    ) {
+                        uf.union(cellId, newRow * colCount + newCol);
+                    }
                 }
+                cellIndex++;
             }
-
-            // Return `left`.
-            result[i] = left;
+            // Get the size of the connected component containing the top-left cell (0,0)
+            result[query.index] = query.value > grid[0][0] ? uf.getSize(0) : 0;
         }
-
         return result;
+    }
+}
+
+class UnionFind {
+
+    private final int[] parent;
+    private final int[] size;
+
+    public UnionFind(int n) {
+        parent = new int[n];
+        size = new int[n];
+        // Initialize all parents to -1 (disjoint sets)
+        Arrays.fill(parent, -1);
+        // Each component starts with size 1
+        Arrays.fill(size, 1);
+    }
+
+    // Find with path compression
+    public int find(int node) {
+        // If negative, it's the root
+        if (parent[node] < 0) return node;
+        // Path compression
+        return parent[node] = find(parent[node]);
+    }
+
+    // Union by size (merge smaller tree into larger tree)
+    public boolean union(int nodeA, int nodeB) {
+        int rootA = find(nodeA), rootB = find(nodeB);
+        // Already connected
+        if (rootA == rootB) return false;
+
+        if (size[rootA] > size[rootB]) {
+            parent[rootB] = rootA;
+            size[rootA] += size[rootB];
+        } else {
+            parent[rootA] = rootB;
+            size[rootB] += size[rootA];
+        }
+        return true;
+    }
+
+    // Get the size of the component containing a given node
+    public int getSize(int node) {
+        return size[find(node)];
     }
 }
