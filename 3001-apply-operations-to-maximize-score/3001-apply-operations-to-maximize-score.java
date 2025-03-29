@@ -1,28 +1,32 @@
 class Solution {
 
-    final int MOD = 1000000007;
+    private static final int MOD = 1_000_000_007;
 
     public int maximumScore(List<Integer> nums, int k) {
         int n = nums.size();
-        List<Integer> primeScores = new ArrayList<>(Collections.nCopies(n, 0));
+        int[] primeScores = new int[n];
+
+        // Find the maximum element in nums to determine the range for prime generation
+        int maxElement = Collections.max(nums);
+
+        // Get all prime numbers up to maxElement using the Sieve of Eratosthenes
+        List<Integer> primes = getPrimes(maxElement);
 
         // Calculate the prime score for each number in nums
         for (int index = 0; index < n; index++) {
             int num = nums.get(index);
 
-            // Check for prime factors from 2 to sqrt(n)
-            for (int factor = 2; factor <= Math.sqrt(num); factor++) {
-                if (num % factor == 0) {
-                    // Increment prime score for each prime factor
-                    primeScores.set(index, primeScores.get(index) + 1);
+            // Iterate over the generated primes to count unique prime factors
+            for (int prime : primes) {
+                if (prime * prime > num) break; // Stop early if prime^2 exceeds num
+                if (num % prime != 0) continue; // Skip if the prime is not a factor
 
-                    // Remove all occurrences of the prime factor from num
-                    while (num % factor == 0) num /= factor;
-                }
+                primeScores[index]++; // Increment prime score for the factor
+                while (num % prime == 0) num /= prime; // Remove all occurrences of this factor
             }
 
-            // If num is still greater than or equal to 2, it's a prime factor
-            if (num >= 2) primeScores.set(index, primeScores.get(index) + 1);
+            // If num is still greater than 1, it is a prime number itself
+            if (num > 1) primeScores[index]++;
         }
 
         // Initialize next and previous dominant index arrays
@@ -31,28 +35,24 @@ class Solution {
         Arrays.fill(nextDominant, n);
         Arrays.fill(prevDominant, -1);
 
-        // Stack to store indices for monotonic decreasing prime score
+        // Stack to store indices for a monotonic decreasing prime score
         Stack<Integer> decreasingPrimeScoreStack = new Stack<>();
 
         // Calculate the next and previous dominant indices for each number
         for (int index = 0; index < n; index++) {
-            // While the stack is not empty and the current prime score is greater than the stack's top
             while (
                 !decreasingPrimeScoreStack.isEmpty() &&
-                primeScores.get(decreasingPrimeScoreStack.peek()) <
-                primeScores.get(index)
+                primeScores[decreasingPrimeScoreStack.peek()] <
+                primeScores[index]
             ) {
                 int topIndex = decreasingPrimeScoreStack.pop();
-
-                // Set the next dominant element for the popped index
                 nextDominant[topIndex] = index;
             }
 
-            // If the stack is not empty, set the previous dominant element for the current index
-            if (!decreasingPrimeScoreStack.isEmpty()) prevDominant[index] =
-                decreasingPrimeScoreStack.peek();
+            if (!decreasingPrimeScoreStack.isEmpty()) {
+                prevDominant[index] = decreasingPrimeScoreStack.peek();
+            }
 
-            // Push the current index onto the stack
             decreasingPrimeScoreStack.push(index);
         }
 
@@ -60,34 +60,28 @@ class Solution {
         long[] numOfSubarrays = new long[n];
         for (int index = 0; index < n; index++) {
             numOfSubarrays[index] =
-                ((long) nextDominant[index] - index) *
+                (long) (nextDominant[index] - index) *
                 (index - prevDominant[index]);
         }
 
-        // Priority queue to process elements in decreasing order of their value
-        PriorityQueue<int[]> processingQueue = new PriorityQueue<>((a, b) -> {
-            if (b[0] == a[0]) {
-                return Integer.compare(a[1], b[1]); // break tie based on the index (ascending order)
-            }
-            return Integer.compare(b[0], a[0]); // descending order for the value
-        });
-
-        // Push each number and its index onto the priority queue
+        // Sort elements in decreasing order based on their values
+        List<int[]> sortedArray = new ArrayList<>();
         for (int index = 0; index < n; index++) {
-            processingQueue.offer(new int[] { nums.get(index), index });
+            sortedArray.add(new int[] { nums.get(index), index });
         }
+        sortedArray.sort((a, b) -> Integer.compare(b[0], a[0])); // Sort in descending order
 
         long score = 1;
+        int processingIndex = 0;
 
         // Process elements while there are operations left
         while (k > 0) {
-            // Get the element with the maximum value from the queue
-            int[] top = processingQueue.poll();
-            int num = top[0];
-            int index = top[1];
+            int[] element = sortedArray.get(processingIndex++);
+            int num = element[0];
+            int index = element[1];
 
             // Calculate the number of operations to apply on the current element
-            long operations = Math.min((long) k, numOfSubarrays[index]);
+            long operations = Math.min(k, numOfSubarrays[index]);
 
             // Update the score by raising the element to the power of operations
             score = (score * power(num, operations)) % MOD;
@@ -103,18 +97,37 @@ class Solution {
     private long power(long base, long exponent) {
         long res = 1;
 
-        // Calculate the exponentiation using binary exponentiation
         while (exponent > 0) {
-            // If the exponent is odd, multiply the result by the base
             if (exponent % 2 == 1) {
                 res = (res * base) % MOD;
             }
-
-            // Square the base and halve the exponent
             base = (base * base) % MOD;
             exponent /= 2;
         }
 
         return res;
+    }
+
+    // Function to generate prime numbers up to a given limit using the Sieve of Eratosthenes
+    private List<Integer> getPrimes(int limit) {
+        boolean[] isPrime = new boolean[limit + 1];
+        Arrays.fill(isPrime, true);
+        List<Integer> primes = new ArrayList<>();
+
+        for (int number = 2; number <= limit; number++) {
+            if (!isPrime[number]) continue;
+
+            primes.add(number);
+
+            for (
+                long multiple = (long) number * number;
+                multiple <= limit;
+                multiple += number
+            ) {
+                isPrime[(int) multiple] = false;
+            }
+        }
+
+        return primes;
     }
 }
