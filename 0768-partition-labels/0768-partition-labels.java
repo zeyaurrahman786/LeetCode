@@ -1,22 +1,25 @@
 class Solution {
+
     public List<Integer> partitionLabels(String s) {
-        int[] last = new int[26];
-        for (int i = 0; i < s.length(); i++) {
-            last[s.charAt(i) - 'a'] = i;
+        // Stores the last index of each character in 's'
+        int[] lastOccurrence = new int[26];
+        for (int i = 0; i < s.length(); ++i) {
+            lastOccurrence[s.charAt(i) - 'a'] = i;
         }
 
-        List<Integer> partitions = new ArrayList<>();
-        int start = 0;
-        int end = 0;
-
-        for (int i = 0; i < s.length(); i++) {
-            end = Math.max(end, last[s.charAt(i) - 'a']);
-            if (i == end) {
-                partitions.add(end - start + 1);
-                start = end + 1;
+        int partitionEnd = 0, partitionStart = 0;
+        List<Integer> partitionSizes = new ArrayList<>();
+        for (int i = 0; i < s.length(); ++i) {
+            partitionEnd = Math.max(
+                partitionEnd,
+                lastOccurrence[s.charAt(i) - 'a']
+            );
+            // End of the current partition
+            if (i == partitionEnd) {
+                partitionSizes.add(i - partitionStart + 1);
+                partitionStart = i + 1;
             }
         }
-
-        return partitions;
+        return partitionSizes;
     }
 }
