@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/zeyaurrahman786/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/zeyaurrahman786/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2280-count-good-triplets-in-an-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/zeyaurrahman786/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/zeyaurrahman786/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/zeyaurrahman786/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/zeyaurrahman786/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2164-two-best-non-overlapping-events](https://github.com/zeyaurrahman786/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/zeyaurrahman786/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2280-count-good-triplets-in-an-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/zeyaurrahman786/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/zeyaurrahman786/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/zeyaurrahman786/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/zeyaurrahman786/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0954-maximum-sum-circular-subarray](https://github.com/zeyaurrahman786/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [2280-count-good-triplets-in-an-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1293,6 +1296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0931-maximum-frequency-stack](https://github.com/zeyaurrahman786/LeetCode/tree/master/0931-maximum-frequency-stack) |
+| [2280-count-good-triplets-in-an-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/zeyaurrahman786/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/zeyaurrahman786/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Queue
@@ -1662,6 +1666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/zeyaurrahman786/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/zeyaurrahman786/LeetCode/tree/master/0148-sort-list) |
+| [2280-count-good-triplets-in-an-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Game Theory
 |  |
 | ------- |
@@ -1762,6 +1767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/zeyaurrahman786/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0729-my-calendar-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0731-my-calendar-ii) |
+| [2280-count-good-triplets-in-an-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -1800,6 +1806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/zeyaurrahman786/LeetCode/tree/master/0218-the-skyline-problem) |
+| [2280-count-good-triplets-in-an-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Line Sweep
 |  |
 | ------- |
