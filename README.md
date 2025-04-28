@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/zeyaurrahman786/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/zeyaurrahman786/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/zeyaurrahman786/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2411-spiral-matrix-iv](https://github.com/zeyaurrahman786/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/zeyaurrahman786/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/zeyaurrahman786/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/zeyaurrahman786/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2275-find-substring-with-given-hash-value](https://github.com/zeyaurrahman786/LeetCode/tree/master/2275-find-substring-with-given-hash-value) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/zeyaurrahman786/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/zeyaurrahman786/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/zeyaurrahman786/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/zeyaurrahman786/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/zeyaurrahman786/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2280-count-good-triplets-in-an-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/zeyaurrahman786/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/zeyaurrahman786/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/zeyaurrahman786/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/zeyaurrahman786/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -647,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/zeyaurrahman786/LeetCode/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/zeyaurrahman786/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/zeyaurrahman786/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/zeyaurrahman786/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2625-increment-submatrices-by-one](https://github.com/zeyaurrahman786/LeetCode/tree/master/2625-increment-submatrices-by-one) |
