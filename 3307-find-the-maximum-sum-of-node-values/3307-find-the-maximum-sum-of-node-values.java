@@ -1,21 +1,27 @@
 class Solution {
     public long maximumValueSum(int[] nums, int k, int[][] edges) {
-        int n = nums.length;
-        long[][] dp = new long[n + 1][2];
-        dp[n][1] = 0;
-        dp[n][0] = Integer.MIN_VALUE;
-        
-        for (int index = n - 1; index >= 0; index--) {
-            for (int isEven = 0; isEven <= 1; isEven++) {
-                // Case 1: we perform the operation on this element.
-                long performOperation = dp[index + 1][isEven ^ 1] + (nums[index] ^ k);
-                // Case 2: we don't perform operation on this element.
-                long dontPerformOperation = dp[index + 1][isEven] + nums[index];
+        long sum = 0;
+        int count = 0, positiveMinimum = (1 << 30), negativeMaximum = -1 * (1 << 30);
 
-                dp[index][isEven] = Math.max(performOperation, dontPerformOperation);
+        for (int nodeValue : nums) {
+            int operatedNodeValue = nodeValue ^ k;
+            sum += nodeValue;
+            int netChange = operatedNodeValue - nodeValue;
+            if (netChange > 0) {
+                positiveMinimum = Math.min(positiveMinimum, netChange);
+                sum += netChange;
+                count++;
+            } else {
+                negativeMaximum = Math.max(negativeMaximum, netChange);
             }
         }
-        
-        return dp[0][1];
+
+        // If the number of positive netChange values is even, return the sum.
+        if (count % 2 == 0) {
+            return sum;
+        }
+
+        // Otherwise return the maximum of both discussed cases.
+        return Math.max(sum - positiveMinimum, sum + negativeMaximum);
     }
 }
