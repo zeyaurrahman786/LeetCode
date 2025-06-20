@@ -1,34 +1,32 @@
 public class Solution {
 
     public int maxDistance(String s, int k) {
-        int ans = 0;
-        int north = 0, south = 0, east = 0, west = 0;
-        for (char it : s.toCharArray()) {
-            switch (it) {
+        int latitude = 0, longitude = 0, ans = 0;
+        int n = s.length();
+        for (int i = 0; i < n; i++) {
+            char c = s.charAt(i);
+            switch (c) {
                 case 'N':
-                    north++;
+                    latitude++;
                     break;
                 case 'S':
-                    south++;
+                    latitude--;
                     break;
                 case 'E':
-                    east++;
+                    longitude++;
                     break;
                 case 'W':
-                    west++;
+                    longitude--;
                     break;
             }
-            int times1 = Math.min(Math.min(north, south), k); // modification times for N and S
-            int times2 = Math.min(Math.min(east, west), k - times1); // modification times for E and W
             ans = Math.max(
                 ans,
-                count(north, south, times1) + count(east, west, times2)
+                Math.min(
+                    Math.abs(latitude) + Math.abs(longitude) + k * 2,
+                    i + 1
+                )
             );
         }
         return ans;
-    }
-
-    private int count(int drt1, int drt2, int times) {
-        return Math.abs(drt1 - drt2) + times * 2; // Calculate modified Manhattan distance
     }
 }
