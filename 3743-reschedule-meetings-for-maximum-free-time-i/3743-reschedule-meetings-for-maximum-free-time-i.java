@@ -8,14 +8,15 @@ public class Solution {
     ) {
         int n = startTime.length;
         int res = 0;
-        int[] sum = new int[n + 1];
+        int t = 0;
         for (int i = 0; i < n; i++) {
-            sum[i + 1] = sum[i] + endTime[i] - startTime[i];
-        }
-        for (int i = k - 1; i < n; i++) {
+            t += endTime[i] - startTime[i];
+            int left = i <= k - 1 ? 0 : endTime[i - k];
             int right = i == n - 1 ? eventTime : startTime[i + 1];
-            int left = i == k - 1 ? 0 : endTime[i - k];
-            res = Math.max(res, right - left - (sum[i + 1] - sum[i - k + 1]));
+            res = Math.max(res, right - left - t);
+            if (i >= k - 1) {
+                t -= endTime[i - k + 1] - startTime[i - k + 1];
+            }
         }
         return res;
     }
