@@ -1,57 +1,51 @@
 class Solution {
 
     public int maximumGain(String s, int x, int y) {
-        int totalScore = 0;
-        String highPriorityPair = x > y ? "ab" : "ba";
-        String lowPriorityPair = highPriorityPair.equals("ab") ? "ba" : "ab";
+        StringBuilder text = new StringBuilder(s);
+        int totalPoints = 0;
 
-        // First pass: remove high priority pair
-        String stringAfterFirstPass = removeSubstring(s, highPriorityPair);
-        int removedPairsCount =
-            (s.length() - stringAfterFirstPass.length()) / 2;
+        if (x > y) {
+            // Remove "ab" first (higher points), then "ba"
+            totalPoints += removeSubstring(text, "ab", x);
+            totalPoints += removeSubstring(text, "ba", y);
+        } else {
+            // Remove "ba" first (higher or equal points), then "ab"
+            totalPoints += removeSubstring(text, "ba", y);
+            totalPoints += removeSubstring(text, "ab", x);
+        }
 
-        // Calculate score from first pass
-        totalScore += removedPairsCount * Math.max(x, y);
-
-        // Second pass: remove low priority pair
-        String stringAfterSecondPass = removeSubstring(
-            stringAfterFirstPass,
-            lowPriorityPair
-        );
-        removedPairsCount = (stringAfterFirstPass.length() -
-            stringAfterSecondPass.length()) /
-        2;
-
-        // Calculate score from second pass
-        totalScore += removedPairsCount * Math.min(x, y);
-
-        return totalScore;
+        return totalPoints;
     }
 
-    private String removeSubstring(String input, String targetPair) {
-        Stack<Character> charStack = new Stack<>();
+    private int removeSubstring(
+        StringBuilder inputString,
+        String targetSubstring,
+        int pointsPerRemoval
+    ) {
+        int totalPoints = 0;
+        int writeIndex = 0;
 
-        // Iterate through each character in the input string
-        for (int i = 0; i < input.length(); i++) {
-            char currentChar = input.charAt(i);
+        // Iterate through the string
+        for (int readIndex = 0; readIndex < inputString.length(); readIndex++) {
+            // Add the current character
+            inputString.setCharAt(writeIndex++, inputString.charAt(readIndex));
 
-            // Check if current character forms the target pair with the top of the stack
+            // Check if we've written at least two characters and
+            // they match the target substring
             if (
-                currentChar == targetPair.charAt(1) &&
-                !charStack.isEmpty() &&
-                charStack.peek() == targetPair.charAt(0)
+                writeIndex > 1 &&
+                inputString.charAt(writeIndex - 2) ==
+                targetSubstring.charAt(0) &&
+                inputString.charAt(writeIndex - 1) == targetSubstring.charAt(1)
             ) {
-                charStack.pop(); // Remove the matching character from the stack
-            } else {
-                charStack.push(currentChar);
+                writeIndex -= 2; // Move write index back to remove the match
+                totalPoints += pointsPerRemoval;
             }
         }
 
-        // Reconstruct the remaining string after removing target pairs
-        StringBuilder remainingChars = new StringBuilder();
-        while (!charStack.isEmpty()) {
-            remainingChars.append(charStack.pop());
-        }
-        return remainingChars.reverse().toString();
+        // Trim the StringBuilder to remove any leftover characters
+        inputString.setLength(writeIndex);
+
+        return totalPoints;
     }
 }
