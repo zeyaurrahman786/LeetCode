@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/zeyaurrahman786/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/zeyaurrahman786/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/zeyaurrahman786/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/zeyaurrahman786/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/zeyaurrahman786/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/zeyaurrahman786/LeetCode/tree/master/0952-word-subsets) |
@@ -979,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-sum-of-distances-in-tree](https://github.com/zeyaurrahman786/LeetCode/tree/master/0863-sum-of-distances-in-tree) |
 | [0868-push-dominoes](https://github.com/zeyaurrahman786/LeetCode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/zeyaurrahman786/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/zeyaurrahman786/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/zeyaurrahman786/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/zeyaurrahman786/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/zeyaurrahman786/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -1034,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/zeyaurrahman786/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/zeyaurrahman786/LeetCode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/zeyaurrahman786/LeetCode/tree/master/0476-number-complement) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/zeyaurrahman786/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/zeyaurrahman786/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/zeyaurrahman786/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/zeyaurrahman786/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
