@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/zeyaurrahman786/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/zeyaurrahman786/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/zeyaurrahman786/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -718,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/zeyaurrahman786/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1526,6 +1528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/zeyaurrahman786/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/zeyaurrahman786/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/zeyaurrahman786/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Queue
 |  |
 | ------- |
@@ -2034,6 +2037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/zeyaurrahman786/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/zeyaurrahman786/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Enumeration
 |  |
 | ------- |
