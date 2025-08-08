@@ -616,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/zeyaurrahman786/LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/zeyaurrahman786/LeetCode/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/zeyaurrahman786/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/zeyaurrahman786/LeetCode/tree/master/0826-soup-servings) |
 | [0870-magic-squares-in-grid](https://github.com/zeyaurrahman786/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/zeyaurrahman786/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/zeyaurrahman786/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -992,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/zeyaurrahman786/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/zeyaurrahman786/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/zeyaurrahman786/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
+| [0826-soup-servings](https://github.com/zeyaurrahman786/LeetCode/tree/master/0826-soup-servings) |
 | [0863-sum-of-distances-in-tree](https://github.com/zeyaurrahman786/LeetCode/tree/master/0863-sum-of-distances-in-tree) |
 | [0868-push-dominoes](https://github.com/zeyaurrahman786/LeetCode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/zeyaurrahman786/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -2093,4 +2095,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/zeyaurrahman786/LeetCode/tree/master/0218-the-skyline-problem) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/zeyaurrahman786/LeetCode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
