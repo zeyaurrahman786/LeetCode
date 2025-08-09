@@ -601,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/zeyaurrahman786/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/zeyaurrahman786/LeetCode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/zeyaurrahman786/LeetCode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/zeyaurrahman786/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/zeyaurrahman786/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/zeyaurrahman786/LeetCode/tree/master/0273-integer-to-english-words) |
@@ -1051,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/zeyaurrahman786/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/zeyaurrahman786/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/zeyaurrahman786/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/zeyaurrahman786/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/zeyaurrahman786/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/zeyaurrahman786/LeetCode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/zeyaurrahman786/LeetCode/tree/master/0476-number-complement) |
@@ -1450,6 +1452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/zeyaurrahman786/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/zeyaurrahman786/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/zeyaurrahman786/LeetCode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/zeyaurrahman786/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/zeyaurrahman786/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/zeyaurrahman786/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/zeyaurrahman786/LeetCode/tree/master/0273-integer-to-english-words) |
