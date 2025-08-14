@@ -1,27 +1,16 @@
 class Solution {
-    private List<String> sameDigitNumbers = List.of("999", "888", "777", "666", "555", "444", "333", "222", "111", "000");
-
-    // Check whether the 'num' string contains the 'sameDigitNumber' string or not.
-    private boolean contains(String sameDigitNumber, String num) {
-        for (int index = 0; index <= num.length() - 3; ++index) {
-            if (num.charAt(index) == sameDigitNumber.charAt(0) &&
-                num.charAt(index + 1) == sameDigitNumber.charAt(1) &&
-                num.charAt(index + 2) == sameDigitNumber.charAt(2)) {
-                return true;
-            }
-        }
-        return false;
-    }
-
     public String largestGoodInteger(String num) {
-        // Iterate on all 'sameDigitNumbers' and check if the string 'num' contains it.
-        for (String sameDigitNumber : sameDigitNumbers) {
-            if (contains(sameDigitNumber, num)) {
-                // Return the current 'sameDigitNumbers'.
-                return sameDigitNumber;
-            }
+        int i=0;
+        String max="";
+        while(i<num.length())
+        {
+            if(i+1<num.length() && num.charAt(i)==num.charAt(i+1) && i+2 < num.length() && num.charAt(i)==num.charAt(i+2))
+                if(max.compareTo(num.substring(i,i+3))<0)
+                {
+                    max=num.substring(i,i+3);
+                }
+            i++;
         }
-        // No 3 consecutive same digits are present in the string 'num'.
-        return "";
+       return max;
     }
 }
