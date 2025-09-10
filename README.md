@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/zeyaurrahman786/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/zeyaurrahman786/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/zeyaurrahman786/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/zeyaurrahman786/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/zeyaurrahman786/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/zeyaurrahman786/LeetCode/tree/master/1876-map-of-highest-peak) |
@@ -878,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/zeyaurrahman786/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/zeyaurrahman786/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/zeyaurrahman786/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/zeyaurrahman786/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/zeyaurrahman786/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/zeyaurrahman786/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/zeyaurrahman786/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -1154,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/zeyaurrahman786/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/zeyaurrahman786/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/zeyaurrahman786/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/zeyaurrahman786/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/zeyaurrahman786/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/2032-largest-odd-number-in-string) |
