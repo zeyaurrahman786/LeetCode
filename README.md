@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/zeyaurrahman786/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/zeyaurrahman786/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/zeyaurrahman786/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/zeyaurrahman786/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/zeyaurrahman786/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -928,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/zeyaurrahman786/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/zeyaurrahman786/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/zeyaurrahman786/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/zeyaurrahman786/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -976,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/zeyaurrahman786/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/zeyaurrahman786/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/zeyaurrahman786/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/zeyaurrahman786/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/zeyaurrahman786/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/zeyaurrahman786/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/zeyaurrahman786/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
