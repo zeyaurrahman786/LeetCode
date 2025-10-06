@@ -1,26 +1,41 @@
 class Solution {
     public int swimInWater(int[][] grid) {
+             // Get grid size
         int n = grid.length;
-        int[][] dirs = { { 0, 1 }, { 0, -1 }, { 1, 0 }, { -1, 0 } };
-        boolean[][] vis = new boolean[n][n];
-        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> a[0] - b[0]);
-        pq.add(new int[] { grid[0][0], 0, 0 });
-        vis[0][0] = true;
-        int res = 0;
-        while (!pq.isEmpty()) {
-            int[] cur = pq.poll();
-            int t = cur[0], r = cur[1], c = cur[2];
-            res = Math.max(res, t);
-            if (r == n - 1 && c == n - 1)
-                return res;
+
+        // Create min-heap for cells by elevation
+        PriorityQueue<int[]> minHeap = new PriorityQueue<>((a, b) -> a[0] - b[0]);
+
+        // Visited matrix
+        boolean[][] visited = new boolean[n][n];
+
+        // Push starting cell to heap
+        minHeap.add(new int[]{grid[0][0], 0, 0});
+        visited[0][0] = true;
+
+        // Direction vectors
+        int[][] dirs = {{0,1},{1,0},{0,-1},{-1,0}};
+
+        // Process heap until destination
+        while (!minHeap.isEmpty()) {
+            // Get cell with lowest elevation
+            int[] curr = minHeap.poll();
+            int elevation = curr[0], r = curr[1], c = curr[2];
+
+            // If destination reached
+            if (r == n - 1 && c == n - 1) return elevation;
+
+            // Check all neighbors
             for (int[] d : dirs) {
                 int nr = r + d[0], nc = c + d[1];
-                if (nr >= 0 && nr < n && nc >= 0 && nc < n && !vis[nr][nc]) {
-                    vis[nr][nc] = true;
-                    pq.add(new int[] { grid[nr][nc], nr, nc });
+
+                // Check bounds and visited
+                if (nr >= 0 && nc >= 0 && nr < n && nc < n && !visited[nr][nc]) {
+                    visited[nr][nc] = true;
+                    minHeap.add(new int[]{Math.max(elevation, grid[nr][nc]), nr, nc});
                 }
             }
         }
-        return res;
+        return -1;
     }
 }
