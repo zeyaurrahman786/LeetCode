@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/zeyaurrahman786/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/zeyaurrahman786/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zeyaurrahman786/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1612-avoid-flood-in-the-city](https://github.com/zeyaurrahman786/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/zeyaurrahman786/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/zeyaurrahman786/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/zeyaurrahman786/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -753,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/zeyaurrahman786/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/zeyaurrahman786/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/zeyaurrahman786/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1612-avoid-flood-in-the-city](https://github.com/zeyaurrahman786/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/zeyaurrahman786/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/zeyaurrahman786/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/zeyaurrahman786/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -905,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/zeyaurrahman786/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/zeyaurrahman786/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1612-avoid-flood-in-the-city](https://github.com/zeyaurrahman786/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/zeyaurrahman786/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1668-find-longest-awesome-substring](https://github.com/zeyaurrahman786/LeetCode/tree/master/1668-find-longest-awesome-substring) |
 | [1694-make-sum-divisible-by-p](https://github.com/zeyaurrahman786/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
@@ -1198,6 +1201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/zeyaurrahman786/LeetCode/tree/master/1304-longest-happy-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/zeyaurrahman786/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/zeyaurrahman786/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1612-avoid-flood-in-the-city](https://github.com/zeyaurrahman786/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/zeyaurrahman786/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/zeyaurrahman786/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/zeyaurrahman786/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -1946,6 +1950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/zeyaurrahman786/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/zeyaurrahman786/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/zeyaurrahman786/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1612-avoid-flood-in-the-city](https://github.com/zeyaurrahman786/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/zeyaurrahman786/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/zeyaurrahman786/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/zeyaurrahman786/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
