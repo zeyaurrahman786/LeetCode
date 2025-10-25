@@ -1,17 +1,17 @@
 class Solution {
     public int totalMoney(int n) {
-        int ans = 0;
-        int monday = 1;
+        int weeks = n / 7;
+        int remainingDays = n % 7;
+        int total = 0;
 
-        while (n > 0) {
-            for (int day = 0; day < Math.min(n, 7); day++) {
-                ans += monday + day;
-            }
+        // Sum for full weeks
+        total += 28 * weeks + 7 * (weeks * (weeks - 1)) / 2;
 
-            n -= 7;
-            monday++;
+        // Sum for remaining days
+        for (int i = 0; i < remainingDays; i++) {
+            total += (weeks + 1) + i;
         }
 
-        return ans;
+        return total;
     }
 }
